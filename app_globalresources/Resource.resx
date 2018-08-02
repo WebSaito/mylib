@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  
+<!--
+ █████╗ ███████╗ ██████╗██╗██╗
+██╔══██╗██╔════╝██╔════╝██║██║
+███████║███████╗██║     ██║██║
+██╔══██║╚════██║██║     ██║██║
+██║  ██║███████║╚██████╗██║██║
+╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝╚═╝
+
+Para gerar o título acesse o site:
+http://patorjk.com/software/taag/#p=display&v=1&f=Texto
+
+Caso o link não funcione, acesse o site e utilize a font: ANSI SHADOW
+-->
+
+<!--
+ ██████╗ ██╗      ██████╗ ██████╗  █████╗ ██╗     
+██╔════╝ ██║     ██╔═══██╗██╔══██╗██╔══██╗██║     
+██║  ███╗██║     ██║   ██║██████╔╝███████║██║     
+██║   ██║██║     ██║   ██║██╔══██╗██╔══██║██║     
+╚██████╔╝███████╗╚██████╔╝██████╔╝██║  ██║███████╗
+ ╚═════╝ ╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
+Textos globais, que são utilizados em diversas páginas
+-->
+  
+    <data name="global_titulo" xml:space="preserve"><value>ATD Group | Palavra-Chave</value></data>
+    <data name="global_tituloSecundario" xml:space="preserve"><value>Palavra-Chave | ATD Group</value></data>
+
+    <!-- Validações -->
+    <data name="globalValidacao_exemplo" xml:space="preserve"><value>Nome inválido</value></data>
+
+    <!-- GALERIA DE FOTOS -->
+    <data name="global_galeriaDeFotos" xml:space="preserve"><value>Galeria de fotos</value></data>
+
+    <!-- CARREGAR MAIS FOTOS -->
+    <data name="global_CarregarMaisFotos" xml:space="preserve"><value>Carregar mais fotos</value></data>
+
+<!--
+███╗   ███╗███████╗███╗   ██╗██╗   ██╗    ████████╗ ██████╗ ██████╗  ██████╗ 
+████╗ ████║██╔════╝████╗  ██║██║   ██║    ╚══██╔══╝██╔═══██╗██╔══██╗██╔═══██╗
+██╔████╔██║█████╗  ██╔██╗ ██║██║   ██║       ██║   ██║   ██║██████╔╝██║   ██║
+██║╚██╔╝██║██╔══╝  ██║╚██╗██║██║   ██║       ██║   ██║   ██║██╔═══╝ ██║   ██║
+██║ ╚═╝ ██║███████╗██║ ╚████║╚██████╔╝       ██║   ╚██████╔╝██║     ╚██████╔╝
+╚═╝     ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝        ╚═╝    ╚═════╝ ╚═╝      ╚═════╝ 
+-->
+                                                                             
+    <!-- EMPRESA -->
+    <data name="menuEmpresa" xml:space="preserve"><value>Empresa</value></data>
+    <data name="menuEmpresa_QuemSomos" xml:space="preserve"><value>Quem Somos</value></data>
+    <data name="menuEmpresa_MercadosAtuacao" xml:space="preserve"><value>Mercados de Atuação</value></data>
+    <data name="menuEmpresa_MissaoVisaoValores" xml:space="preserve"><value>Missão, Visão, Valores</value></data>
+    <data name="menuEmpresa_OndeEstamos" xml:space="preserve"><value>Onde Estamos</value></data>
+    <data name="menuEmpresa_CertificacoesQualidade" xml:space="preserve"><value>Certificações e Qualidade</value></data>
+
+    <!-- SETORES -->
+    <data name="menuSetores" xml:space="preserve"><value>Setores</value></data>
+    <data name="menuSetores_OleoGas" xml:space="preserve"><value>Óleo &amp; Gás</value></data>
+    <data name="menuSetores_EnergiaConvencional" xml:space="preserve"><value>Energia convencional</value></data>
+    <data name="menuSetores_IndustriaInfraestruturaSistesmasTransporte" xml:space="preserve"><value>Indústria, Infraestrutura, Sistemas de Transporte</value></data>
+    <data name="menuSetores_Renovaveis" xml:space="preserve"><value>Renováveis</value></data>
+
+    <!-- SERVIÇOS -->
+    <data name="menu_Servicos" xml:space="preserve"><value>Serviços</value></data>
+
+    <!-- PROJETOS -->
+    <data name="menu_Projetos" xml:space="preserve"><value>Projetos</value></data>
+
+    <!-- CONTATO -->
+    <data name="menu_Contato" xml:space="preserve"><value>Contato</value></data>
+
+    <!-- LINGUAGEM -->
+    <data name="menu_Linguagem_PT_BR_img_alt" xml:space="preserve"><value>Bandeira do Brasil</value></data>
+    <data name="menu_Linguagem_EN_img_alt" xml:space="preserve"><value>Bandeira dos Estados Unidos</value></data>
+    <data name="menu_Linguagem_ES_img_alt" xml:space="preserve"><value>Bandeira da Espanha</value></data>
+
+<!--
+██████╗  ██████╗ ██╗    ██╗███╗   ██╗
+██╔══██╗██╔═══██╗██║    ██║████╗  ██║
+██║  ██║██║   ██║██║ █╗ ██║██╔██╗ ██║
+██║  ██║██║   ██║██║███╗██║██║╚██╗██║
+██████╔╝╚██████╔╝╚███╔███╔╝██║ ╚████║
+╚═════╝  ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═══╝
+-->
+  
+  <!-- ENDERECO -->
+  <data name="downEndereco_title" xml:space="preserve"><value>Localização</value></data>
+
+  <!-- TELEFONE -->
+  <data name="downTelefone_title" xml:space="preserve"><value>Telefone</value></data>
+
+  <!-- MENU -->
+  <data name="downMenu_Empresa" xml:space="preserve"><value>Empresa</value></data>
+  <data name="downMenu_Projetos" xml:space="preserve"><value>Projetos</value></data>
+  <data name="downMenu_Contato" xml:space="preserve"><value>Contato</value></data>
+
+  <!-- MENU SETORES -->
+  <data name="downMenu_Setores" xml:space="preserve"><value>Setores</value></data>
+  <data name="downMenu_Setores_OleoGas" xml:space="preserve"><value>Óleo &amp; Gás</value></data>
+  <data name="downMenu_Setores_EnergiaConvencional" xml:space="preserve"><value>Energia convencional</value></data>
+  <data name="downMenu_Setores_IndustriaInfraestruturaSistesmasTransporte" xml:space="preserve"><value>Indústria, Infraestrutura, Sistemas de Transporte</value></data>
+  <data name="downMenu_Setores_Renovaveis" xml:space="preserve"><value>Renováveis</value></data>
+
+  <!-- MENU SERVIÇOS -->
+  <data name="downMenu_Servicos" xml:space="preserve"><value>Serviços</value></data>
+
+  <!-- COPYRIGHT -->
+  <data name="downCopyright" xml:space="preserve"><value>ATD GROUP © 2017 . Todos os direitos reservados</value></data>
+
+<!--
+██╗  ██╗ ██████╗ ███╗   ███╗███████╗
+██║  ██║██╔═══██╗████╗ ████║██╔════╝
+███████║██║   ██║██╔████╔██║█████╗  
+██╔══██║██║   ██║██║╚██╔╝██║██╔══╝  
+██║  ██║╚██████╔╝██║ ╚═╝ ██║███████╗
+╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
+-->
+
+    <!-- SETORES -->
+    <data name="homeSetores" xml:space="preserve"><value>Setores</value></data>
+    <data name="homeSetores_OleoGas" xml:space="preserve"><value>Oleo &amp; Gás</value></data>
+    <data name="homeSetores_OleoGas_texto" xml:space="preserve"><value>Capitalizamos novas oportunidades aportando engenharia e soluções diferenciadas para as atividades off-shore e on-shore</value></data>
+
+    <data name="homeSetores_EnergiaConvencional" xml:space="preserve"><value>Energia Convencional</value></data>
+    <data name="homeSetores_EnergiaConvencional_texto" xml:space="preserve"><value>Sólida experiência em construção de plantas de geração, transmissão, subestações e componentes de projetos.</value></data>
+
+    <data name="homeSetores_Industria" xml:space="preserve"><value>Indústria, Infraestrutura, Sistemas de Transporte</value></data>
+    <data name="homeSetores_Industria_texto" xml:space="preserve"><value>Ampla gama de serviços de logística para os mais variados tipos e tamanhos de indústrias e sistemas de transporte.</value></data>
+
+    <data name="homeSetores_Renovaveis" xml:space="preserve"><value>Renováveis</value></data>
+    <data name="homeSetores_Renovaveis_texto" xml:space="preserve"><value>Atuamos com os nossos clientes desde fases de oferta até a implementação de processos e operações logísticas.</value></data>
+
+    <!-- PROJETOS -->
+    <data name="homeProjetos" xml:space="preserve"><value>Projetos</value></data>
+
+<!--
+███████╗███╗   ███╗██████╗ ██████╗ ███████╗███████╗ █████╗ 
+██╔════╝████╗ ████║██╔══██╗██╔══██╗██╔════╝██╔════╝██╔══██╗
+█████╗  ██╔████╔██║██████╔╝██████╔╝█████╗  ███████╗███████║
+██╔══╝  ██║╚██╔╝██║██╔═══╝ ██╔══██╗██╔══╝  ╚════██║██╔══██║
+███████╗██║ ╚═╝ ██║██║     ██║  ██║███████╗███████║██║  ██║
+╚══════╝╚═╝     ╚═╝╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝                                                       
+-->
+  <data name="empresa_pageTitle" xml:space="preserve"><value>Empresa | ATD Group</value></data>
+  
+  <!-- QUEM SOMOS -->
+  <data name="empresaQuemSomos" xml:space="preserve"><value><![CDATA[Quem <b>somos</b>]]></value></data>
+  <data name="empresaQuemSomos_texto1" xml:space="preserve"><value><![CDATA[<strong class="color-primary">ATD Group</strong> é referência no Brasil e na América do Sul na integração de soluções logísticas multimodais, em serviços de apoio ao desenvolvimento de infraestrutura e em montagem industrial. Nosso QG operacional está localizado em São Paulo e atualmente contamos com quatro escritórios internacionais em Madri (Espanha), Buenos Aires (Argentina), Lima (Peru) e Santiago (Chile).]]></value></data>
+  <data name="empresaQuemSomos_texto2" xml:space="preserve"><value><![CDATA[Desde sua fundação, a ATD tem estrategicamente atendido todo tipo de carregamentos sobredimensionados nos setores de Oil & Gas, se responsabilizando por soluções logísticas completas como fretes internacionais, operações portuárias em terminais públicos e privados, movimentações em estaleiros mediante uso de SPMT, e içamentos de apoio à montagem industrial e construção modular com uso de guindastes.]]></value></data>
+  <data name="empresaQuemSomos_texto3" xml:space="preserve"><value><![CDATA[No Brasil, somos certificados como Agente de Cargas e OTM (Operador Multimodal), sendo também NVOCC tanto no Chile, Argentina, Peru e Espanha, oferecendo a nossos clientes soluções porta a porta, integrando toda a responsabilidade logística em um único contrato.]]></value></data>
+
+  <!-- MERCADOS DE ATUAÇÃO -->
+  <data name="empresaMercadoDeAtuacao" xml:space="preserve"><value><![CDATA[Mercados de <b>atuação</b>]]></value></data>
+
+  <data name="empresaMercadoDeAtuacao_mapaAmericaCentral" xml:space="preserve"><value><![CDATA[<span class="empresa-atuacao__mapa-item-title-text">América Central</span>]]></value></data>
+  <data name="empresaMercadoDeAtuacao_mapaAmericaDoSul" xml:space="preserve"><value><![CDATA[<span class="empresa-atuacao__mapa-item-title-text">América Latina</span>]]></value></data>
+  <data name="empresaMercadoDeAtuacao_mapaEuropa" xml:space="preserve"><value><![CDATA[<span class="empresa-atuacao__mapa-item-title-text">Norte de Europa</span>]]></value></data>
+  <data name="empresaMercadoDeAtuacao_mapaEuropaMediterraneo" xml:space="preserve"><value><![CDATA[<span class="empresa-atuacao__mapa-item-title-text">Europa Mediterrâneo</span>]]></value></data>
+  <data name="empresaMercadoDeAtuacao_mapaChina" xml:space="preserve"><value><![CDATA[<span class="empresa-atuacao__mapa-item-title-text">China</span>]]></value></data>
+  <data name="empresaMercadoDeAtuacao_mapaCoreiaDoSul" xml:space="preserve"><value><![CDATA[<span class="empresa-atuacao__mapa-item-title-text">Coreia do Sul</span>]]></value></data>
+  <data name="empresaMercadoDeAtuacao_mapaJapao" xml:space="preserve"><value><![CDATA[<span class="empresa-atuacao__mapa-item-title-text">Japão</span>]]></value></data>
+  <data name="empresaMercadoDeAtuacao_mapaSingapura" xml:space="preserve"><value><![CDATA[<span class="empresa-atuacao__mapa-item-title-text">Singapura</span>]]></value></data>
+
+  <data name="empresaMercadoDeAtuacao_mapaAmericaCentral_alt" xml:space="preserve"><value>América Central</value></data>
+  <data name="empresaMercadoDeAtuacao_mapaAmericaDoSul_alt" xml:space="preserve"><value>América Latina</value></data>
+  <data name="empresaMercadoDeAtuacao_mapaEuropa_alt" xml:space="preserve"><value>Norte de Europa</value></data>
+  <data name="empresaMercadoDeAtuacao_mapaEuropaMediterraneo_alt" xml:space="preserve"><value>Europa Mediterrâneo</value></data>
+  <data name="empresaMercadoDeAtuacao_mapaChina_alt" xml:space="preserve"><value>China</value></data>
+  <data name="empresaMercadoDeAtuacao_mapaCoreiaDoSul_alt" xml:space="preserve"><value>Coreia do Sul</value></data>
+  <data name="empresaMercadoDeAtuacao_mapaJapao_alt" xml:space="preserve"><value>Japão</value></data>
+  <data name="empresaMercadoDeAtuacao_mapaSingapura_alt" xml:space="preserve"><value>Singapura</value></data>
+
+  <!-- MISSAO, VISAO, VALORES -->
+  <data name="empresaMissao" xml:space="preserve"><value>Missão</value></data>
+  <data name="empresaMissao_texto" xml:space="preserve"><value>Entregar aos nossos clientes soluções diferenciais em termos de competitividade, cronograma e segurança, gerando valor nos seus contratos mediante a nossa prestação de serviço.</value></data>
+
+  <data name="empresaVisao" xml:space="preserve"><value>Visão</value></data>
+  <data name="empresaVisao_texto" xml:space="preserve"><value>Ser um fornecedor de referência nos setores de petróleo, energia, renováveis, indústria e transporte, em serviços de engenharia e logística em contratos EPC e grandes fornecimentos industriais.</value></data>
+
+  <data name="empresaValores" xml:space="preserve"><value>Valores</value></data>
+  <data name="empresaValores_texto1" xml:space="preserve"><value>Transparência</value></data>
+  <data name="empresaValores_texto2" xml:space="preserve"><value>Conhecimento</value></data>
+  <data name="empresaValores_texto3" xml:space="preserve"><value>Integridade</value></data>
+  <data name="empresaValores_texto4" xml:space="preserve"><value>Atitude</value></data>
+
+  <!-- ONDE ESTAMOS -->
+  <data name="empresaOndeEstamos" xml:space="preserve"><value><![CDATA[<b>Onde</b> estamos]]></value></data>
+
+  <!-- CERTIFICAÇÕES E QUALIDADE -->
+  <data name="empresaCertificacoesEQualidade" xml:space="preserve"><value><![CDATA[<b>Certificações</b> e qualidade]]></value></data>
+
+  <data name="empresaCertificacoesEQualidade_iso9001" xml:space="preserve"><value><![CDATA[<strong>ATD Group</strong> tem o Certificado de Qualidade <strong>ISO 9001</strong>.]]></value></data>
+
+  <data name="empresaCertificacoesEQualidade_dnit" xml:space="preserve"><value><![CDATA[Também estamos habilitados como Operador de Transporte Multimodal na <strong>ANT</strong> e registrados no <strong>DNIT</strong>, podendo atuar no mercado Brasileiro sendo emissor de Licença de Transporte Especial e Conhecimento de transporte multimodal.]]></value></data>
+
+<!--
+███████╗███████╗████████╗ ██████╗ ██████╗ ███████╗███████╗
+██╔════╝██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗██╔════╝██╔════╝
+███████╗█████╗     ██║   ██║   ██║██████╔╝█████╗  ███████╗
+╚════██║██╔══╝     ██║   ██║   ██║██╔══██╗██╔══╝  ╚════██║
+███████║███████╗   ██║   ╚██████╔╝██║  ██║███████╗███████║
+╚══════╝╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝
+-->
+  
+  <!-- OLEO E GAS -->
+  <data name="setores_OleoEGas_pageTitle" xml:space="preserve"><value>Óleo &amp; Gás | Setores | ATD Group</value></data>
+
+  <data name="setores_OleoEGas" xml:space="preserve"><value><![CDATA[Óleo & <b>Gás</b>]]></value></data>
+
+  <data name="setores_OleoEGas_texto1" xml:space="preserve"><value><![CDATA[Com nossa expertise em logística pesada, ajudamos nossos clientes a capitalizar novas oportunidades no setor de Oil & Gás desde a fase de oferta, aportando engenharia e soluções diferenciadas para as atividades off-shore e on-shore.]]></value></data>
+  <data name="setores_OleoEGas_texto2" xml:space="preserve"><value><![CDATA[Nos projetos, a partir da rede global da <strong class="color-primary">ATD Group</strong> e de nossos serviços integrados, nossos clientes controlam custos e garantem um alto serviço ao cliente. Entregamos uma ampla gama de serviços customizados para suas necessidades de negócios, em todas as regiões geográficas e rotas.]]></value></data>
+  <data name="setores_OleoEGas_texto3" xml:space="preserve"><value>Nossa experiência na movimentação, load-in/out e transporte internacional de cargas pesadas no setor de Oil &amp; Gas abrange projetos como:</value></data>
+  <data name="setores_OleoEGas_texto4" xml:space="preserve"><value>Fabricação de jackets;</value></data>
+  <data name="setores_OleoEGas_texto5" xml:space="preserve"><value>Fabricação de módulos e integração plataformas FPSO/ FRSU e Jacket;</value></data>
+  <data name="setores_OleoEGas_texto6" xml:space="preserve"><value>Fabricação de semi-submersible;</value></data>
+  <data name="setores_OleoEGas_texto7" xml:space="preserve"><value>Módulos, seções e plataformas pré-ensambladas PAU - PAR</value></data>
+  <data name="setores_OleoEGas_subtitulo1" xml:space="preserve"><value>Na atividade offshore operações tais como:</value></data>
+  <data name="setores_OleoEGas_texto8" xml:space="preserve"><value>Instalações de plataformas;</value></data>
+  <data name="setores_OleoEGas_texto9" xml:space="preserve"><value>Elevação de módulos;</value></data>
+  <data name="setores_OleoEGas_texto10" xml:space="preserve"><value>Deslizamento de módulos;</value></data>
+  <data name="setores_OleoEGas_texto11" xml:space="preserve"><value>Nivelamento de Jacket; </value></data>
+  <data name="setores_OleoEGas_texto12" xml:space="preserve"><value>Sistemas de içamento de cargas com balsa - guindaste</value></data>
+
+  <data name="setores_OleoEGas_destaque" xml:space="preserve"><value>Oferecemos todos os tipos de transporte e serviços, incluindo:</value></data>
+  <data name="setores_OleoEGas_destaque_texto1" xml:space="preserve"><value>Projetos: cargas pesadas e superpesadas, operações de charter especiais para deckships, semi-submersiveis e heavy lift</value></data>
+  <data name="setores_OleoEGas_destaque_texto2" xml:space="preserve"><value>Engenharia off-shore e on-shore</value></data>
+  <data name="setores_OleoEGas_destaque_texto3" xml:space="preserve"><value>Load-out/in e operações com balsa para transportes locais</value></data>
+  <data name="setores_OleoEGas_destaque_texto4" xml:space="preserve"><value>Frete marítimo internacional: contêiner e cargas soltas</value></data>
+  <data name="setores_OleoEGas_destaque_texto5" xml:space="preserve"><value>Armazenamento/embalagem e classificação de ativos: gerenciamento de hub e instalações dedicadas.</value></data>
+
+  <data name="setores_OleoEGas_linkReferencia" xml:space="preserve"><value>Veja algumas das nossas referências no setor de Óleo &amp; Gás</value></data>
+
+  <!-- ENERGIA CONVENCIONAL -->
+  <data name="setores_EnergiaConvencional_pageTitle" xml:space="preserve"><value>Energia Convencional | Setores | ATD Group</value></data>
+
+  <data name="setores_EnergiaConvencional" xml:space="preserve"><value><![CDATA[Energia <b>Convencional</b>]]></value></data>
+
+  <data name="setores_EnergiaConvencional_texto1" xml:space="preserve"><value><![CDATA[A <strong class="color-primary">ATD Group</strong> tem sólida experiência no segmento de Energia e por isso entende o quanto é fundamental ter agilidade quando se trabalha com projetos de construção de plantas de geração, transmissão e subestações e componentes de projetos. Peças de grande escala como turbinas, geradores e transformadores são elementos-chave na construção de plantas de energia.]]></value></data>
+  <data name="setores_EnergiaConvencional_texto2" xml:space="preserve"><value><![CDATA[A <strong class="color-primary">ATD</strong> já realizou projetos complexos e desafiadores neste segmento, desde Ciclos Combinados a Gás Natural, até Bi-polos e Subestações para Linhas de Transmissão Elétrica de Alta Tensão nas regiões sudeste, nordeste e na região da Amazônia, onde encontramos complexidades estruturais importantes, que precisam de soluções a medida.]]></value></data>
+  <data name="setores_EnergiaConvencional_texto3" xml:space="preserve"><value><![CDATA[Hoje a <strong class="color-primary">ATD</strong>, é referência igual que no setor de Oil & Gás, em serviços de logística para o setor de Energia.]]></value></data>
+  
+  <data name="setores_EnergiaConvencional_destaque" xml:space="preserve"><value>Veja abaixo a lista de algumas atividades e serviços oferecidos à indústria de energia:</value></data>
+  <data name="setores_EnergiaConvencional_destaque_texto1" xml:space="preserve"><value>Estudos de viabilidade preliminares de rotas para o transporte de cargas especiais</value></data>
+  <data name="setores_EnergiaConvencional_destaque_texto2" xml:space="preserve"><value>Engenharia do transporte, estudos geométricos e estruturais </value></data>
+  <data name="setores_EnergiaConvencional_destaque_texto3" xml:space="preserve"><value>Transporte multimodal de carga de turbinas, geradores, rotores, transformadores, tambores de vapor, condensadores,...</value></data>
+  <data name="setores_EnergiaConvencional_destaque_texto4" xml:space="preserve"><value>Transporte internacional de cargas pesadas e gerais</value></data>
+  <data name="setores_EnergiaConvencional_destaque_texto5" xml:space="preserve"><value>Operações de apoio em terminais de recebimento origem e destino</value></data>
+  <data name="setores_EnergiaConvencional_destaque_texto6" xml:space="preserve"><value>Serviços desde recepção de cargas até montagem - Movimentações internas no site, deslizamento e elevação de peças como apoio ao montagem de módulos de caldeira, turbinas, geradores para unidades termelétricas.</value></data>
+  <data name="setores_EnergiaConvencional_destaque_texto7" xml:space="preserve"><value>Desmontagem de unidades, boilers, rotores e complementos da unidade de potência.</value></data>
+
+  <data name="setores_EnergiaConvencional_textImg" xml:space="preserve"><value>O transporte e a carga de peças são executados por equipamentos fornecidos em função da necessidade do projeto, tais como trailers, heavy rail wagons, barges, ships, gantry cranes, strand jacks e spmt.</value></data>
+
+  <data name="setores_EnergiaConvencional_linkReferencia" xml:space="preserve"><value>Veja algumas das nossas referências no setor de Energia Convencional</value></data>
+
+  <!-- INDÚSTRIA, INFRAESTRUTURA, SISTEMAS DE TRANSPORTE -->
+  <data name="setores_IndustriaInfraestruturaSistemasDeTransporte_pageTitle" xml:space="preserve"><value>Indústria, infraestrutura, sistemas de transporte | Setores | ATD Group</value></data>
+
+  <data name="setores_IndustriaInfraestruturaSistemasDeTransporte" xml:space="preserve"><value><![CDATA[<b>Indústria, infraestrutura, sistemas de transporte</b>]]></value></data>
+
+  <data name="setores_IndustriaInfraestruturaSistemasDeTransporte_texto1" xml:space="preserve"><value><![CDATA[A <strong class="color-primary">ATD Group</strong> tem sólida experiência e oferece uma ampla gama de serviços de logística para os mais variados tipos e tamanhos de indústrias, principalmente nos segmentos de Papel e Celulose, Automação, Construção, Mineração, Siderúrgico e Sistemas de Transporte.]]></value></data>
+  <data name="setores_IndustriaInfraestruturaSistemasDeTransporte_texto2" xml:space="preserve"><value>Atuamos para garantir a eficiência logística em um cenário global com crescente pressão por redução de custos e agilidade de processos.</value></data>
+
+  <data name="setores_IndustriaInfraestruturaSistemasDeTransporte_destaque1" xml:space="preserve"><value>Entre as soluções e experiências logísticas que já desenvolvemos estão:</value></data>
+  <data name="setores_IndustriaInfraestruturaSistemasDeTransporte_destaque1_texto1" xml:space="preserve"><value>Serviços logísticos em construções modulares de plantas, reduzindo os cronogramas de projeto durante a construção</value></data>
+  <data name="setores_IndustriaInfraestruturaSistemasDeTransporte_destaque1_texto2" xml:space="preserve"><value>Serviços de engenharia de apoio para as atividades logísticas on-shore e off-shore</value></data>
+  <data name="setores_IndustriaInfraestruturaSistemasDeTransporte_destaque1_texto3" xml:space="preserve"><value>Serviços desde recepção de cargas até montagem. Movimentações internas no site, deslizamento e elevação de peças principais na montagem de caldeiras de recuperação, unidades de branqueamento, unidades de cogeração e outros componentes no setor de papel &amp; celulose</value></data>
+  <data name="setores_IndustriaInfraestruturaSistemasDeTransporte_destaque1_texto4" xml:space="preserve"><value>Transporte multimodal de peças como reatores, turbinas, módulos de caldeira, e outros componentes mecânicos e elétricos</value></data>
+  <data name="setores_IndustriaInfraestruturaSistemasDeTransporte_destaque1_texto5" xml:space="preserve"><value>Manuseio, deslizamento e elevação de vagões para projetos de transporte como metrô e trem</value></data>
+
+  <data name="setores_IndustriaInfraestruturaSistemasDeTransporte_destaque2" xml:space="preserve"><value>Experiências off-shore:</value></data>
+  <data name="setores_IndustriaInfraestruturaSistemasDeTransporte_destaque2_texto1" xml:space="preserve"><value>Elevação de vigas e módulos pré-fabricados mediante o uso de guindaste e balsa, na construção de pontes</value></data>
+  <data name="setores_IndustriaInfraestruturaSistemasDeTransporte_destaque2_texto2" xml:space="preserve"><value>Aluguel de embarcações de apoio ao fornecimento de materiais durante obras civis</value></data>
+  <data name="setores_IndustriaInfraestruturaSistemasDeTransporte_destaque2_texto3" xml:space="preserve"><value>Aluguel de embarcações para processos de dragagem em marina na construção de portos</value></data>
+  <data name="setores_IndustriaInfraestruturaSistemasDeTransporte_destaque2_texto4" xml:space="preserve"><value>Transporte com deckship em modo dry tow de grandes caixões usados na construção de diques flotantes</value></data>
+  <data name="setores_IndustriaInfraestruturaSistemasDeTransporte_destaque2_texto5" xml:space="preserve"><value>Serviços de elevação e lançamento de blocos mediante grua telescópica, apoiando a construção de diques flotantes</value></data>
+
+  <data name="setores_IndustriaInfraestruturaSistemasDeTransporte_linkReferencia" xml:space="preserve"><value>Veja algumas das nossas referências para Indústria, Construção Civil e Sistema de Transporte</value></data>
+
+  <!-- RENOVAVEIS -->
+  <data name="setores_Renovaveis_pageTitle" xml:space="preserve"><value>Renováveis | Setores | ATD Group</value></data>
+
+  <data name="setores_Renovaveis" xml:space="preserve"><value><![CDATA[Renová<b>veis</b>]]></value></data>
+
+  <data name="setores_Renovaveis_texto1" xml:space="preserve"><value>O setor das energias renováveis está sendo cada vez mais relevante na experiência do grupo. Atuamos com os nossos clientes desde fases de oferta até a implementação de processos e operações logísticas que garantam a execução do projeto nos tempos e cronograma que os contratos requerem.</value></data>
+  <data name="setores_Renovaveis_texto2" xml:space="preserve"><value><![CDATA[Entendemos que, em um setor de altos investimentos, períodos mais curtos de construção são fundamentais para a competitividade e rentabilidade das empresas. Atuando em linha com esse segmento desafiador, a  <strong class="color-primary">ATD</strong> busca inovações, da tecnologia aos processos, para entregar projetos de logística que ofereçam a agilidade e redução de custos que nossos clientes necessitam.]]></value></data>
+  <data name="setores_Renovaveis_texto3" xml:space="preserve"><value>Nossa experiência abrange desde os estudos fiscais para a composição dos custos EPC com o procurement internacional dos materiais, até a execução completa da logística dos contratos em regime chave na mão, fundamentalmente para plantas fotovoltaicas, parques eólicos e unidades de tratamento térmico da biomassa.</value></data>
+
+  <data name="setores_Renovaveis_destaque1" xml:space="preserve"><value>Entre as nossas experiências no setor de Renováveis estão:</value></data>
+  <data name="setores_Renovaveis_destaque1_texto1" xml:space="preserve"><value>Implementação de modal logístico marítimo e terrestre reduzindo tempos de transporte, aumentando segurança nas cargas e mantendo níveis de custo para nacelles, hubs e módulos de torre em parques eólicos para o Sudeste e Nordeste da costa do Brasil.</value></data>
+  <data name="setores_Renovaveis_destaque1_texto2" xml:space="preserve"><value>Logística integrada do ciclo de contêiner e cargas soltas desde a origem (mercado asiático), até a entrega e manuseio final na obra, para plantas fotovoltaicas.</value></data>
+  <data name="setores_Renovaveis_destaque1_texto3" xml:space="preserve"><value>Custom clearence e gestão dos materiais importados para projetos no Chile, Argentina e no Brasil</value></data>
+  <data name="setores_Renovaveis_destaque1_texto4" xml:space="preserve"><value>Desenvolvimento de engenharia detalhada para melhora dos sistemas de manuseio em porto de nacelles , reduzindo tempos e custos, além da necessidade de uso de guindastes em terminais portuários.</value></data>
+  <data name="setores_Renovaveis_destaque1_texto5" xml:space="preserve"><value>Logística internacional e nacional apoiando o EPC de plantas de gaseificação, cogeração e tratamento térmico de biomassa.</value></data>
+
+  <data name="setores_Renovaveis_destaque2" xml:space="preserve"><value>Experiências off-shore:</value></data>
+  <data name="setores_Renovaveis_destaque2_texto1" xml:space="preserve"><value>Transporte e lançamento de jackets flotantes mediante uso de navios semi-submersíveis, em parques eólicos off-shore</value></data>
+  <data name="setores_Renovaveis_destaque2_texto2" xml:space="preserve"><value>Transporte em deckship de subestações a serem instaladas em parques eólicos off-shore</value></data>
+  <data name="setores_Renovaveis_destaque2_texto3" xml:space="preserve"><value>Serviços de elevação de tramos de torre, nacelle e pás, mediante uso de balsa com guindaste, como apoio ao montagem de parques eólicos off-shore</value></data>
+
+  <data name="setores_Renovaveis_linkReferencia" xml:space="preserve"><value>Veja algumas das nossas referências no setor de Renováveis</value></data>
+
+<!--
+██████╗ ██████╗  ██████╗      ██╗███████╗████████╗ ██████╗ ███████╗
+██╔══██╗██╔══██╗██╔═══██╗     ██║██╔════╝╚══██╔══╝██╔═══██╗██╔════╝
+██████╔╝██████╔╝██║   ██║     ██║█████╗     ██║   ██║   ██║███████╗
+██╔═══╝ ██╔══██╗██║   ██║██   ██║██╔══╝     ██║   ██║   ██║╚════██║
+██║     ██║  ██║╚██████╔╝╚█████╔╝███████╗   ██║   ╚██████╔╝███████║
+╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚══════╝   ╚═╝    ╚═════╝ ╚══════╝
+-->
+
+  <data name="projetos_pageTitle" xml:space="preserve"><value>Projetos | ATD Group</value></data>
+
+  <data name="projetos_filtros_buscar" xml:space="preserve"><value>Buscar</value></data>
+
+  <data name="projetos_titulo" xml:space="preserve"><value><![CDATA[Proje<b>tos</b>]]></value></data>
+
+  <data name="projetos_carregarMais" xml:space="preserve"><value>Carregar mais</value></data>
+
+<!--
+██████╗ ██████╗  ██████╗      ██╗███████╗████████╗ ██████╗ ███████╗    ██████╗ ███████╗████████╗ █████╗ ██╗     ██╗  ██╗███████╗
+██╔══██╗██╔══██╗██╔═══██╗     ██║██╔════╝╚══██╔══╝██╔═══██╗██╔════╝    ██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██║     ██║  ██║██╔════╝
+██████╔╝██████╔╝██║   ██║     ██║█████╗     ██║   ██║   ██║███████╗    ██║  ██║█████╗     ██║   ███████║██║     ███████║█████╗  
+██╔═══╝ ██╔══██╗██║   ██║██   ██║██╔══╝     ██║   ██║   ██║╚════██║    ██║  ██║██╔══╝     ██║   ██╔══██║██║     ██╔══██║██╔══╝  
+██║     ██║  ██║╚██████╔╝╚█████╔╝███████╗   ██║   ╚██████╔╝███████║    ██████╔╝███████╗   ██║   ██║  ██║███████╗██║  ██║███████╗
+╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚══════╝   ╚═╝    ╚═════╝ ╚══════╝    ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
+-->
+  <data name="projetosDetalhe_pageTitle" xml:space="preserve"><value>Projetos | ATD Group</value></data>
+
+  <data name="projetosDetalhe_voltar" xml:space="preserve"><value>Voltar</value></data>
+
+  <data name="projetosDetalhe_galeriaDeFotos" xml:space="preserve"><value>Galeria de fotos</value></data>
+
+  <data name="projetosDetalhe_compartilhar" xml:space="preserve"><value>Compartilhar:</value></data>
+
+  <data name="projetosDetalhe_anterior" xml:space="preserve"><value>Anterior</value></data>
+  <data name="projetosDetalhe_proximo" xml:space="preserve"><value>Próximo</value></data>
+
+<!--
+ ██████╗ ██████╗ ███╗   ██╗████████╗ █████╗ ████████╗ ██████╗ 
+██╔════╝██╔═══██╗████╗  ██║╚══██╔══╝██╔══██╗╚══██╔══╝██╔═══██╗
+██║     ██║   ██║██╔██╗ ██║   ██║   ███████║   ██║   ██║   ██║
+██║     ██║   ██║██║╚██╗██║   ██║   ██╔══██║   ██║   ██║   ██║
+╚██████╗╚██████╔╝██║ ╚████║   ██║   ██║  ██║   ██║   ╚██████╔╝
+ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝    ╚═════╝ 
+-->
+  <data name="contato_pageTitle" xml:space="preserve"><value>Contato | ATD Group</value></data>
+  
+  <data name="contato_titulo" xml:space="preserve"><value><![CDATA[Con<b>tato</b>]]></value></data>
+
+  <data name="contato_texto1" xml:space="preserve"><value>Preencha o formulário abaixo para entrar em contato com a ATD Group.</value></data>
+  <data name="contato_texto_visitar" xml:space="preserve"><value>Visitar</value></data>
+
+  <!-- COMPONENTE INFO -->
+  <data name="contato_infoTelefone" xml:space="preserve"><value>Telefone</value></data>
+
+  <data name="contato_infoLocalizacao" xml:space="preserve"><value>Localização</value></data>
+  <data name="contato_infoLocalizacao_btnVerMapa" xml:space="preserve"><value>Ver mapa</value></data>
+
+  <!-- MAPA -->
+  <data name="contato_mapa_btnFechar" xml:space="preserve"><value>Fechar</value></data>
+
+  <!-- FORMULARIO -->
+  <data name="contato_form_inputNome_attrPlaceholder" xml:space="preserve"><value>Nome</value></data>
+  <data name="contato_form_inputAssunto_attrPlaceholder" xml:space="preserve"><value>Assunto</value></data>
+  <data name="contato_form_inputMensagem_attrPlaceholder" xml:space="preserve"><value>Mensagem</value></data>
+  <data name="contato_form_btnEnviar" xml:space="preserve"><value>Enviar</value></data>
+
+</root>
