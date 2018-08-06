@@ -1,0 +1,6 @@
+Sitemap: http://www.renascernaluz.com.br/sitemap.xml
+
+User-agent: *
+Crawl-delay: 10
+Allow:*
+Disallow: /painel/

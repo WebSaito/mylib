@@ -1,0 +1,1541 @@
+ATOM EG
+
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
+<title>Super Store</title>
+<link rel="alternate" type="text/html">http://oc2102.ocext.com/</link>
+<updated>2018-02-22T02:30:25Z</updated>
+<entry>
+<g:title>HTC Touch HD Product 1</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=28
+</g:link>
+<g:price>1.79 EUR</g:price>
+<g:id>28</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Desktops</g:product_type>
+<g:description>
+HTC Touch - in High Definition. Watch music videos and streaming content in awe-inspiring high definition clarity for a mobile experience you never thought possible. Seductively sleek, the HTC Touch HD provides the next generation of mobile functionality, all at a simple touch. Fully integrated with Windows Mobile Professional 6.1, ultrafast 3.5G, GPS, 5MP camera, plus lots more - all delivered on a breathtakingly crisp 3.8&quot; WVGA touchscreen - you can take control of your mobile world with the HTC Touch HD. Features Processor Qualcomm® MSM 7201A™ 528 MHz Windows Mobile® 6.1 Professional Operating System Memory: 512 MB ROM, 288 MB RAM Dimensions: 115 mm x 62.8 mm x 12 mm / 146.4 grams 3.8-inch TFT-LCD flat touch-sensitive screen with 480 x 800 WVGA resolution HSDPA/WCDMA: Europe/Asia: 900/2100 MHz; Up to 2 Mbps up-link and 7.2 Mbps down-link speeds Quad-band GSM/GPRS/EDGE: Europe/Asia: 850/900/1800/1900 MHz (Band frequency, HSUPA availability, and data speed are operator dependent.) Device Control via HTC TouchFLO™ 3D &amp; Touch-sensitive front panel buttons GPS and A-GPS ready Bluetooth® 2.0 with Enhanced Data Rate and A2DP for wireless stereo headsets Wi-Fi®: IEEE 802.11 b/g HTC ExtUSB™ (11-pin mini-USB 2.0) 5 megapixel color camera with auto focus VGA CMOS color camera Built-in 3.5 mm audio jack, microphone, speaker, and FM radio Ring tone formats: AAC, AAC+, eAAC+, AMR-NB, AMR-WB, QCP, MP3, WMA, WAV 40 polyphonic and standard MIDI format 0 and 1 (SMF)/SP MIDI Rechargeable Lithium-ion or Lithium-ion polymer 1350 mAh battery Expansion Slot: microSD™ memory card (SD 2.0 compatible) AC Adapter Voltage range/frequency: 100 ~ 240V AC, 50/60 Hz DC output: 5V and 1A Special Features: FM Radio, G-Sensor
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/htc_touch_hd_3-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/htc_touch_hd_2-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/data/demo/htc_touch_hd_1-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>28----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:item_group_id>28</g:item_group_id>
+<g:custom_label_0>HTC Touch HD</g:custom_label_0>
+<g:custom_label_1>HTC Touch HD</g:custom_label_1>
+<g:custom_label_2>28</g:custom_label_2>
+<g:custom_label_3>Product 1</g:custom_label_3>
+<g:custom_label_4>?????? ?????</g:custom_label_4>
+</entry>
+<entry>
+<g:title>Palm Treo Pro Product 2</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=29
+</g:link>
+<g:price>4.97 EUR</g:price>
+<g:id>29</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Desktops</g:product_type>
+<g:description>
+Redefine your workday with the Palm Treo Pro smartphone. Perfectly balanced, you can respond to business and personal email, stay on top of appointments and contacts, and use Wi-Fi or GPS when you&rsquo;re out and about. Then watch a video on YouTube, catch up with news and sports on the web, or listen to a few songs. Balance your work and play the way you like it, with the Palm Treo Pro. Features Windows Mobile&reg; 6.1 Professional Edition Qualcomm&reg; MSM7201 400MHz Processor 320x320 transflective colour TFT touchscreen HSDPA/UMTS/EDGE/GPRS/GSM radio Tri-band UMTS &mdash; 850MHz, 1900MHz, 2100MHz Quad-band GSM &mdash; 850/900/1800/1900 802.11b/g with WPA, WPA2, and 801.1x authentication Built-in GPS Bluetooth Version: 2.0 + Enhanced Data Rate 256MB storage (100MB user available), 128MB RAM 2.0 megapixel camera, up to 8x digital zoom and video capture Removable, rechargeable 1500mAh lithium-ion battery Up to 5.0 hours talk time and up to 250 hours standby MicroSDHC card expansion (up to 32GB supported) MicroUSB 2.0 for synchronization and charging 3.5mm stereo headset jack 60mm (W) x 114mm (L) x 13.5mm (D) / 133g
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/palm_treo_pro_3-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/palm_treo_pro_2-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/data/demo/palm_treo_pro_1-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>29----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:item_group_id>29</g:item_group_id>
+<g:custom_label_0>Palm Treo Pro</g:custom_label_0>
+<g:custom_label_2>29</g:custom_label_2>
+<g:custom_label_3>Product 2</g:custom_label_3>
+<g:custom_label_4>?????? ?????</g:custom_label_4>
+</entry>
+<entry>
+<g:title>Canon EOS 5D Product 3</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=30
+</g:link>
+<g:price>1.79 EUR</g:price>
+<g:id>30</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Desktops</g:product_type>
+<g:description>
+Canon&apos;s press material for the EOS 5D states that it &apos;defines (a) new D-SLR category&apos;, while we&apos;re not typically too concerned with marketing talk this particular statement is clearly pretty accurate. The EOS 5D is unlike any previous digital SLR in that it combines a full-frame (35 mm sized) high resolution sensor (12.8 megapixels) with a relatively compact body (slightly larger than the EOS 20D, although in your hand it feels noticeably &apos;chunkier&apos;). The EOS 5D is aimed to slot in between the EOS 20D and the EOS-1D professional digital SLR&apos;s, an important difference when compared to the latter is that the EOS 5D doesn&apos;t have any environmental seals. While Canon don&apos;t specifically refer to the EOS 5D as a &apos;professional&apos; digital SLR it will have obvious appeal to professionals who want a high quality digital SLR in a body lighter than the EOS-1D. It will also no doubt appeal to current EOS 20D owners (although lets hope they&apos;ve not bought too many EF-S lenses...) äë ?????? ???????? (RU) 48 RU ?????? ???????? (RU) 11 RU ?????? ???????? (RU) 46 RU Select Red Select Blue
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/canon_eos_5d_2-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/canon_eos_5d_3-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/data/demo/canon_eos_5d_1-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>30----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:item_group_id>30</g:item_group_id>
+<g:sale_price>1.62 EUR</g:sale_price>
+<g:custom_label_0>Canon EOS 5D</g:custom_label_0>
+<g:custom_label_1>
+?????, ???????? &quot;?????&quot;, '??????????&quot; ?????? ?????? «???????»
+</g:custom_label_1>
+<g:custom_label_2>30</g:custom_label_2>
+<g:custom_label_3>Product 3</g:custom_label_3>
+<g:custom_label_4>?????? ?????</g:custom_label_4>
+</entry>
+<entry>
+<g:title>Nikon D300 Product 4</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=31
+</g:link>
+<g:price>1.44 EUR</g:price>
+<g:id>31</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Cameras</g:product_type>
+<g:description>
+Engineered with pro-level features and performance, the 12.3-effective-megapixel D300 combines brand new technologies with advanced features inherited from Nikon&#39;s newly announced D3 professional digital SLR camera to offer serious photographers remarkable performance combined with agility. Similar to the D3, the D300 features Nikon&#39;s exclusive EXPEED Image Processing System that is central to driving the speed and processing power needed for many of the camera&#39;s new features. The D300 features a new 51-point autofocus system with Nikon&#39;s 3D Focus Tracking feature and two new LiveView shooting modes that allow users to frame a photograph using the camera&#39;s high-resolution LCD monitor. The D300 shares a similar Scene Recognition System as is found in the D3; it promises to greatly enhance the accuracy of autofocus, autoexposure, and auto white balance by recognizing the subject or scene being photographed and applying this information to the calculations for the three functions. The D300 reacts with lightning speed, powering up in a mere 0.13 seconds and shooting with an imperceptible 45-millisecond shutter release lag time. The D300 is capable of shooting at a rapid six frames per second and can go as fast as eight frames per second when using the optional MB-D10 multi-power battery pack. In continuous bursts, the D300 can shoot up to 100 shots at full 12.3-megapixel resolution. (NORMAL-LARGE image setting, using a SanDisk Extreme IV 1GB CompactFlash card.) The D300 incorporates a range of innovative technologies and features that will significantly improve the accuracy, control, and performance photographers can get from their equipment. Its new Scene Recognition System advances the use of Nikon&#39;s acclaimed 2,005-segment sensor to recognize colors and light patterns that help the camera determine the subject and the type of scene being photographed before a picture is taken. This information is used to improve the accuracy of autofocus, autoexposure, and auto white balance functions in the D300. For example, the camera can track moving subjects better and by identifying them, it can also automatically select focus points faster and with greater accuracy. It can also analyze highlights and more accurately determine exposure, as well as infer light sources to deliver more accurate white balance detection.
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/nikon_d300_3-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/nikon_d300_2-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/nikon_d300_4-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/nikon_d300_5-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/data/demo/nikon_d300_1-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>31----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:item_group_id>31</g:item_group_id>
+<g:custom_label_0>Nikon D300</g:custom_label_0>
+<g:custom_label_2>31</g:custom_label_2>
+<g:custom_label_3>Product 4</g:custom_label_3>
+</entry>
+<entry>
+<g:title>iPod Touch Product 5</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=32
+</g:link>
+<g:price>1.79 EUR</g:price>
+<g:id>32</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>MP3 Players</g:product_type>
+<g:description>
+Revolutionary multi-touch interface. iPod touch features the same multi-touch screen technology as iPhone. Pinch to zoom in on a photo. Scroll through your songs and videos with a flick. Flip through your library by album artwork with Cover Flow. Gorgeous 3.5-inch widescreen display. Watch your movies, TV shows, and photos come alive with bright, vivid color on the 320-by-480-pixel display. Music downloads straight from iTunes. Shop the iTunes Wi-Fi Music Store from anywhere with Wi-Fi.1 Browse or search to find the music youre looking for, preview it, and buy it with just a tap. Surf the web with Wi-Fi. Browse the web using Safari and watch YouTube videos on the first iPod with Wi-Fi built in &nbsp;
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/ipod_touch_4-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/ipod_touch_3-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/ipod_touch_2-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/ipod_touch_5-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/ipod_touch_6-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/data/demo/ipod_touch_1-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>32----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:item_group_id>32</g:item_group_id>
+<g:custom_label_0>iPod Touch</g:custom_label_0>
+<g:custom_label_1>Revolutionary multi-touch interface.</g:custom_label_1>
+<g:custom_label_2>32</g:custom_label_2>
+<g:custom_label_3>Product 5</g:custom_label_3>
+<g:custom_label_4>?????? ?????</g:custom_label_4>
+</entry>
+<entry>
+<g:title>???????? ????? ???????? ??????? ????? Product 6</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=33
+</g:link>
+<g:price>3.56 EUR</g:price>
+<g:id>33</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Desktops</g:product_type>
+<g:description>
+Imagine the advantages of going big without slowing down. The big 19&quot; 941BW monitor combines wide aspect ratio with fast pixel response time, for bigger images, more room to work and crisp motion. In addition, the exclusive MagicBright 2, MagicColor and MagicTune technologies help deliver the ideal image in every situation, while sleek, narrow bezels and adjustable stands deliver style just the way you want it. With the Samsung 941BW widescreen analog/digital LCD monitor, it&apos;s not hard to imagine.
+</g:description>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/data/demo/samsung_syncmaster_941bw-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>33----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:item_group_id>33</g:item_group_id>
+<g:custom_label_0>???????? ????? ???????? ??????? ?????</g:custom_label_0>
+<g:custom_label_2>33</g:custom_label_2>
+<g:custom_label_3>Product 6</g:custom_label_3>
+</entry>
+<entry>
+<g:title>iPod Shuffle Product 7</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=34
+</g:link>
+<g:price>1.79 EUR</g:price>
+<g:id>34</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>MP3 Players</g:product_type>
+<g:description>
+Born to be worn. Clip on the worlds most wearable music player and take up to 240 songs with you anywhere. Choose from five colors including four new hues to make your musical fashion statement. Random meets rhythm. With iTunes autofill, iPod shuffle can deliver a new musical experience every time you sync. For more randomness, you can shuffle songs during playback with the slide of a switch. Everything is easy. Charge and sync with the included USB dock. Operate the iPod shuffle controls with one hand. Enjoy up to 12 hours straight of skip-free music playback.
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/ipod_shuffle_5-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/ipod_shuffle_4-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/ipod_shuffle_2-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/ipod_shuffle_3-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/data/demo/ipod_shuffle_1-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>34----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:item_group_id>34</g:item_group_id>
+<g:custom_label_0>iPod Shuffle</g:custom_label_0>
+<g:custom_label_2>34</g:custom_label_2>
+<g:custom_label_3>Product 7</g:custom_label_3>
+<g:custom_label_4>?????? ?????</g:custom_label_4>
+</entry>
+<entry>
+<g:title>iPod Nano Product 9</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=36
+</g:link>
+<g:price>1.79 EUR</g:price>
+<g:id>36</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>MP3 Players</g:product_type>
+<g:description>
+Video in your pocket. Its the small iPod with one very big idea: video. The worlds most popular music player now lets you enjoy movies, TV shows, and more on a two-inch display thats 65% brighter than before. Cover Flow. Browse through your music collection by flipping through album art. Select an album to turn it over and see the track list.&nbsp; Enhanced interface. Experience a whole new way to browse and view your music and video. Sleek and colorful. With an anodized aluminum and polished stainless steel enclosure and a choice of five colors, iPod nano is dressed to impress. iTunes. Available as a free download, iTunes makes it easy to browse and buy millions of songs, movies, TV shows, audiobooks, and games and download free podcasts all at the iTunes Store. And you can import your own music, manage your whole media library, and sync your iPod or iPhone with ease.
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/ipod_nano_5-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/ipod_nano_4-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/ipod_nano_2-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/ipod_nano_3-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/data/demo/ipod_nano_1-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>36----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:item_group_id>36</g:item_group_id>
+<g:custom_label_0>iPod Nano</g:custom_label_0>
+<g:custom_label_2>36</g:custom_label_2>
+<g:custom_label_3>Product 9</g:custom_label_3>
+<g:custom_label_4>?????? ?????</g:custom_label_4>
+</entry>
+<entry>
+<g:title>iPhone product 11</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=40
+</g:link>
+<g:price>1.81 EUR</g:price>
+<g:id>40</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Desktops</g:product_type>
+<g:description>
+iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/iphone_6-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/iphone_2-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/iphone_5-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/iphone_3-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/iphone_4-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/data/demo/iphone_1-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>40----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:item_group_id>40</g:item_group_id>
+<g:custom_label_0>iPhone</g:custom_label_0>
+<g:custom_label_2>40</g:custom_label_2>
+<g:custom_label_3>product 11</g:custom_label_3>
+<g:custom_label_4>?????? ?????</g:custom_label_4>
+</entry>
+<entry>
+<g:title>iMac Product 14 Checkbox 1</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=41&product_option_value_id=8102&sid=1
+</g:link>
+<g:price>1.79 EUR</g:price>
+<g:id>41-8102</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Desktops > Mac</g:product_type>
+<g:description>
+Just when you thought iMac had everything, now there´s even more. More powerful Intel Core 2 Duo processors. And more memory standard. Combine this with Mac OS X Leopard and iLife ´08, and it´s more all-in-one than ever. iMac packs amazing performance into a stunningly slim space. Size Small Size Medium Size Large Checkbox, (??) Checkbox 1 ?? Checkbox, (??) Checkbox 2 ?? Checkbox, (??) Checkbox 3 ??
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/imac_2-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/imac_3-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/data/demo/imac_1-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>41----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:color>Checkbox 1</g:color>
+<g:size>Small/Medium/Large</g:size>
+<g:item_group_id>41</g:item_group_id>
+<g:custom_label_0>iMac</g:custom_label_0>
+<g:custom_label_1>iMac</g:custom_label_1>
+<g:custom_label_2>41</g:custom_label_2>
+<g:custom_label_3>Product 14</g:custom_label_3>
+<g:custom_label_4>?????? ?????</g:custom_label_4>
+</entry>
+<entry>
+<g:title>iMac Product 14 Checkbox 2</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=41&product_option_value_id=8057&sid=1
+</g:link>
+<g:price>3.03 EUR</g:price>
+<g:id>41-8057</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Desktops > Mac</g:product_type>
+<g:description>
+Just when you thought iMac had everything, now there´s even more. More powerful Intel Core 2 Duo processors. And more memory standard. Combine this with Mac OS X Leopard and iLife ´08, and it´s more all-in-one than ever. iMac packs amazing performance into a stunningly slim space. Size Small Size Medium Size Large Checkbox, (??) Checkbox 1 ?? Checkbox, (??) Checkbox 2 ?? Checkbox, (??) Checkbox 3 ??
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/imac_2-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/imac_3-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/data/demo/imac_1-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>41----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:color>Checkbox 2</g:color>
+<g:size>Small/Medium/Large</g:size>
+<g:item_group_id>41</g:item_group_id>
+<g:custom_label_0>iMac</g:custom_label_0>
+<g:custom_label_1>iMac</g:custom_label_1>
+<g:custom_label_2>41</g:custom_label_2>
+<g:custom_label_3>Product 14</g:custom_label_3>
+<g:custom_label_4>?????? ?????</g:custom_label_4>
+</entry>
+<entry>
+<g:title>iMac Product 14 Checkbox 3</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=41&product_option_value_id=8056&sid=1
+</g:link>
+<g:price>2.68 EUR</g:price>
+<g:id>41-8056</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Desktops > Mac</g:product_type>
+<g:description>
+Just when you thought iMac had everything, now there´s even more. More powerful Intel Core 2 Duo processors. And more memory standard. Combine this with Mac OS X Leopard and iLife ´08, and it´s more all-in-one than ever. iMac packs amazing performance into a stunningly slim space. Size Small Size Medium Size Large Checkbox, (??) Checkbox 1 ?? Checkbox, (??) Checkbox 2 ?? Checkbox, (??) Checkbox 3 ??
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/imac_2-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/imac_3-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/data/demo/imac_1-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>41----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:color>Checkbox 3</g:color>
+<g:size>Small/Medium/Large</g:size>
+<g:item_group_id>41</g:item_group_id>
+<g:custom_label_0>iMac</g:custom_label_0>
+<g:custom_label_1>iMac</g:custom_label_1>
+<g:custom_label_2>41</g:custom_label_2>
+<g:custom_label_3>Product 14</g:custom_label_3>
+<g:custom_label_4>?????? ?????</g:custom_label_4>
+</entry>
+<entry>
+<g:title>Apple Cinema 30&quot; Product 15 Checkbox 1</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=42&product_option_value_id=8&sid=1
+</g:link>
+<g:price>1.97 EUR</g:price>
+<g:id>42-8</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Desktops</g:product_type>
+<g:description>
+The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolution. Designed specifically for the creative professional, this display provides more space for easier access to all the tools and palettes needed to edit, format and composite your work. Combine this display with a Mac Pro, MacBook Pro, or PowerMac G5 and there&apos;s no limit to what you can achieve. The Cinema HD features an active-matrix liquid crystal display that produces flicker-free images that deliver twice the brightness, twice the sharpness and twice the contrast ratio of a typical CRT display. Unlike other flat panels, it&apos;s designed with a pure digital interface to deliver distortion-free images that never need adjusting. With over 4 million digital pixels, the display is uniquely suited for scientific and technical applications such as visualizing molecular structures or analyzing geological data. Offering accurate, brilliant color performance, the Cinema HD delivers up to 16.7 million colors across a wide gamut allowing you to see subtle nuances between colors from soft pastels to rich jewel tones. A wide viewing angle ensures uniform color from edge to edge. Apple&apos;s ColorSync technology allows you to create custom profiles to maintain consistent color onscreen and in print. The result: You can confidently use this display in all your color-critical applications. Housed in a new aluminum design, the display has a very thin bezel that enhances visual accuracy. Each display features two FireWire 400 ports and two USB 2.0 ports, making attachment of desktop peripherals, such as iSight, iPod, digital and still cameras, hard drives, printers and scanners, even more accessible and convenient. Taking advantage of the much thinner and lighter footprint of an LCD, the new displays support the VESA (Video Electronics Standards Association) mounting interface standard. Customers with the optional Cinema Display VESA Mount Adapter kit gain the flexibility to mount their display in locations most appropriate for their work environment. The Cinema HD features a single cable design with elegant breakout for the USB 2.0, FireWire 400 and a pure digital connection using the industry standard Digital Video Interface (DVI) interface. The DVI connection allows for a direct pure-digital connection. Features: Unrivaled display performance 30-inch (viewable) active-matrix liquid crystal display provides breathtaking image quality and vivid, richly saturated color. Support for 2560-by-1600 pixel resolution for display of high definition still and video imagery. Wide-format design for simultaneous display of two full pages of text and graphics. Industry standard DVI connector for direct attachment to Mac- and Windows-based desktops and notebooks Incredibly wide (170 degree) horizontal and vertical viewing angle for maximum visibility and color performance. Lightning-fast pixel response for full-motion digital video playback. Support for 16.7 million saturated colors, for use in all graphics-intensive applications. Simple setup and operation Single cable with elegant breakout for connection to DVI, USB and FireWire ports Built-in two-port USB 2.0 hub for easy connection of desktop peripheral devices. Two FireWire 400 ports to support iSight and other desktop peripherals Sleek, elegant design Huge virtual workspace, very small footprint. Narrow Bezel design to minimize visual impact of using dual displays Unique hinge design for effortless adjustment Support for VESA mounting solutions (Apple Cinema Display VESA Mount Adapter sold separately) Technical specifications Screen size (diagonal viewable image size) Apple Cinema HD Display: 30 inches (29.7-inch viewable) Screen type Thin film transistor (TFT) active-matrix liquid crystal display (AMLCD) Resolutions 2560 x 1600 pixels (optimum resolution) 2048 x 1280 1920 x 1200 1280 x 800 1024 x 640 Display colors (maximum) 16.7 million Viewing angle (typical) 170° horizontal; 170° vertical Brightness (typical) 30-inch Cinema HD Display: 400 cd/m2 Contrast ratio (typical) 700:1 Response time (typical) 16 ms Pixel pitch 30-inch Cinema HD Display: 0.250 mm Screen treatment Antiglare hardcoat User controls (hardware and software) Display Power, System sleep, wake Brightness Monitor tilt Connectors and cables Cable DVI (Digital Visual Interface) FireWire 400 USB 2.0 DC power (24 V) Connectors Two-port, self-powered USB 2.0 hub Two FireWire 400 ports Kensington security port VESA mount adapter Requires optional Cinema Display VESA Mount Adapter (M9649G/A) Compatible with VESA FDMI (MIS-D, 100, C) compliant mounting solutions Electrical requirements Input voltage: 100-240 VAC 50-60Hz Maximum power when operating: 150W Energy saver mode: 3W or less Environmental requirements Operating temperature: 50° to 95° F (10° to 35° C) Storage temperature: -40° to 116° F (-40° to 47° C) Operating humidity: 20% to 80% noncondensing Maximum operating altitude: 10,000 feet Agency approvals FCC Part 15 Class B EN55022 Class B EN55024 VCCI Class B AS/NZS 3548 Class B CNS 13438 Class B ICES-003 Class B ISO 13406 part 2 MPR II IEC 60950 UL 60950 CSA 60950 EN60950 ENERGY STAR TCO &apos;03 Size and weight 30-inch Apple Cinema HD Display Height: 21.3 inches (54.3 cm) Width: 27.2 inches (68.8 cm) Depth: 8.46 inches (21.5 cm) Weight: 27.5 pounds (12.5 kg) System Requirements Mac Pro, all graphic options MacBook Pro Power Mac G5 (PCI-X) with ATI Radeon 9650 or better or NVIDIA GeForce 6800 GT DDL or better Power Mac G5 (PCI Express), all graphics options PowerBook G4 with dual-link DVI support Windows PC and graphics card that supports DVI ports with dual-link digital bandwidth and VESA DDC standard for plug-and-play setup Select Red Select Blue Select Green Select Yellow Checkbox, (??) Checkbox 1 ?? Checkbox, (??) Checkbox 2 ?? Checkbox, (??) Checkbox 3 ?? Checkbox, (??) Checkbox 4 ?? Processor: Clockspeed 100mhz
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/canon_eos_5d_2-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/canon_logo-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/hp_1-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/compaq_presario-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/canon_eos_5d_1-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/data/demo/apple_cinema_30-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>42----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:color>Checkbox 1</g:color>
+<g:item_group_id>42</g:item_group_id>
+<g:sale_price>1.62 EUR</g:sale_price>
+<g:custom_label_0>Apple Cinema 30&quot;</g:custom_label_0>
+<g:custom_label_1>asfsdfsdsdfsdfsdf</g:custom_label_1>
+<g:custom_label_2>42</g:custom_label_2>
+<g:custom_label_3>Product 15</g:custom_label_3>
+<g:custom_label_4>?????? ?????</g:custom_label_4>
+</entry>
+<entry>
+<g:title>Apple Cinema 30&quot; Product 15 Checkbox 2</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=42&product_option_value_id=9&sid=1
+</g:link>
+<g:price>2.15 EUR</g:price>
+<g:id>42-9</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Desktops</g:product_type>
+<g:description>
+The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolution. Designed specifically for the creative professional, this display provides more space for easier access to all the tools and palettes needed to edit, format and composite your work. Combine this display with a Mac Pro, MacBook Pro, or PowerMac G5 and there&apos;s no limit to what you can achieve. The Cinema HD features an active-matrix liquid crystal display that produces flicker-free images that deliver twice the brightness, twice the sharpness and twice the contrast ratio of a typical CRT display. Unlike other flat panels, it&apos;s designed with a pure digital interface to deliver distortion-free images that never need adjusting. With over 4 million digital pixels, the display is uniquely suited for scientific and technical applications such as visualizing molecular structures or analyzing geological data. Offering accurate, brilliant color performance, the Cinema HD delivers up to 16.7 million colors across a wide gamut allowing you to see subtle nuances between colors from soft pastels to rich jewel tones. A wide viewing angle ensures uniform color from edge to edge. Apple&apos;s ColorSync technology allows you to create custom profiles to maintain consistent color onscreen and in print. The result: You can confidently use this display in all your color-critical applications. Housed in a new aluminum design, the display has a very thin bezel that enhances visual accuracy. Each display features two FireWire 400 ports and two USB 2.0 ports, making attachment of desktop peripherals, such as iSight, iPod, digital and still cameras, hard drives, printers and scanners, even more accessible and convenient. Taking advantage of the much thinner and lighter footprint of an LCD, the new displays support the VESA (Video Electronics Standards Association) mounting interface standard. Customers with the optional Cinema Display VESA Mount Adapter kit gain the flexibility to mount their display in locations most appropriate for their work environment. The Cinema HD features a single cable design with elegant breakout for the USB 2.0, FireWire 400 and a pure digital connection using the industry standard Digital Video Interface (DVI) interface. The DVI connection allows for a direct pure-digital connection. Features: Unrivaled display performance 30-inch (viewable) active-matrix liquid crystal display provides breathtaking image quality and vivid, richly saturated color. Support for 2560-by-1600 pixel resolution for display of high definition still and video imagery. Wide-format design for simultaneous display of two full pages of text and graphics. Industry standard DVI connector for direct attachment to Mac- and Windows-based desktops and notebooks Incredibly wide (170 degree) horizontal and vertical viewing angle for maximum visibility and color performance. Lightning-fast pixel response for full-motion digital video playback. Support for 16.7 million saturated colors, for use in all graphics-intensive applications. Simple setup and operation Single cable with elegant breakout for connection to DVI, USB and FireWire ports Built-in two-port USB 2.0 hub for easy connection of desktop peripheral devices. Two FireWire 400 ports to support iSight and other desktop peripherals Sleek, elegant design Huge virtual workspace, very small footprint. Narrow Bezel design to minimize visual impact of using dual displays Unique hinge design for effortless adjustment Support for VESA mounting solutions (Apple Cinema Display VESA Mount Adapter sold separately) Technical specifications Screen size (diagonal viewable image size) Apple Cinema HD Display: 30 inches (29.7-inch viewable) Screen type Thin film transistor (TFT) active-matrix liquid crystal display (AMLCD) Resolutions 2560 x 1600 pixels (optimum resolution) 2048 x 1280 1920 x 1200 1280 x 800 1024 x 640 Display colors (maximum) 16.7 million Viewing angle (typical) 170° horizontal; 170° vertical Brightness (typical) 30-inch Cinema HD Display: 400 cd/m2 Contrast ratio (typical) 700:1 Response time (typical) 16 ms Pixel pitch 30-inch Cinema HD Display: 0.250 mm Screen treatment Antiglare hardcoat User controls (hardware and software) Display Power, System sleep, wake Brightness Monitor tilt Connectors and cables Cable DVI (Digital Visual Interface) FireWire 400 USB 2.0 DC power (24 V) Connectors Two-port, self-powered USB 2.0 hub Two FireWire 400 ports Kensington security port VESA mount adapter Requires optional Cinema Display VESA Mount Adapter (M9649G/A) Compatible with VESA FDMI (MIS-D, 100, C) compliant mounting solutions Electrical requirements Input voltage: 100-240 VAC 50-60Hz Maximum power when operating: 150W Energy saver mode: 3W or less Environmental requirements Operating temperature: 50° to 95° F (10° to 35° C) Storage temperature: -40° to 116° F (-40° to 47° C) Operating humidity: 20% to 80% noncondensing Maximum operating altitude: 10,000 feet Agency approvals FCC Part 15 Class B EN55022 Class B EN55024 VCCI Class B AS/NZS 3548 Class B CNS 13438 Class B ICES-003 Class B ISO 13406 part 2 MPR II IEC 60950 UL 60950 CSA 60950 EN60950 ENERGY STAR TCO &apos;03 Size and weight 30-inch Apple Cinema HD Display Height: 21.3 inches (54.3 cm) Width: 27.2 inches (68.8 cm) Depth: 8.46 inches (21.5 cm) Weight: 27.5 pounds (12.5 kg) System Requirements Mac Pro, all graphic options MacBook Pro Power Mac G5 (PCI-X) with ATI Radeon 9650 or better or NVIDIA GeForce 6800 GT DDL or better Power Mac G5 (PCI Express), all graphics options PowerBook G4 with dual-link DVI support Windows PC and graphics card that supports DVI ports with dual-link digital bandwidth and VESA DDC standard for plug-and-play setup Select Red Select Blue Select Green Select Yellow Checkbox, (??) Checkbox 1 ?? Checkbox, (??) Checkbox 2 ?? Checkbox, (??) Checkbox 3 ?? Checkbox, (??) Checkbox 4 ?? Processor: Clockspeed 100mhz
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/canon_eos_5d_2-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/canon_logo-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/hp_1-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/compaq_presario-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/canon_eos_5d_1-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/data/demo/apple_cinema_30-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>42----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:color>Checkbox 2</g:color>
+<g:item_group_id>42</g:item_group_id>
+<g:sale_price>1.62 EUR</g:sale_price>
+<g:custom_label_0>Apple Cinema 30&quot;</g:custom_label_0>
+<g:custom_label_1>asfsdfsdsdfsdfsdf</g:custom_label_1>
+<g:custom_label_2>42</g:custom_label_2>
+<g:custom_label_3>Product 15</g:custom_label_3>
+<g:custom_label_4>?????? ?????</g:custom_label_4>
+</entry>
+<entry>
+<g:title>Apple Cinema 30&quot; Product 15 Checkbox 3</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=42&product_option_value_id=10&sid=1
+</g:link>
+<g:price>2.32 EUR</g:price>
+<g:id>42-10</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Desktops</g:product_type>
+<g:description>
+The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolution. Designed specifically for the creative professional, this display provides more space for easier access to all the tools and palettes needed to edit, format and composite your work. Combine this display with a Mac Pro, MacBook Pro, or PowerMac G5 and there&apos;s no limit to what you can achieve. The Cinema HD features an active-matrix liquid crystal display that produces flicker-free images that deliver twice the brightness, twice the sharpness and twice the contrast ratio of a typical CRT display. Unlike other flat panels, it&apos;s designed with a pure digital interface to deliver distortion-free images that never need adjusting. With over 4 million digital pixels, the display is uniquely suited for scientific and technical applications such as visualizing molecular structures or analyzing geological data. Offering accurate, brilliant color performance, the Cinema HD delivers up to 16.7 million colors across a wide gamut allowing you to see subtle nuances between colors from soft pastels to rich jewel tones. A wide viewing angle ensures uniform color from edge to edge. Apple&apos;s ColorSync technology allows you to create custom profiles to maintain consistent color onscreen and in print. The result: You can confidently use this display in all your color-critical applications. Housed in a new aluminum design, the display has a very thin bezel that enhances visual accuracy. Each display features two FireWire 400 ports and two USB 2.0 ports, making attachment of desktop peripherals, such as iSight, iPod, digital and still cameras, hard drives, printers and scanners, even more accessible and convenient. Taking advantage of the much thinner and lighter footprint of an LCD, the new displays support the VESA (Video Electronics Standards Association) mounting interface standard. Customers with the optional Cinema Display VESA Mount Adapter kit gain the flexibility to mount their display in locations most appropriate for their work environment. The Cinema HD features a single cable design with elegant breakout for the USB 2.0, FireWire 400 and a pure digital connection using the industry standard Digital Video Interface (DVI) interface. The DVI connection allows for a direct pure-digital connection. Features: Unrivaled display performance 30-inch (viewable) active-matrix liquid crystal display provides breathtaking image quality and vivid, richly saturated color. Support for 2560-by-1600 pixel resolution for display of high definition still and video imagery. Wide-format design for simultaneous display of two full pages of text and graphics. Industry standard DVI connector for direct attachment to Mac- and Windows-based desktops and notebooks Incredibly wide (170 degree) horizontal and vertical viewing angle for maximum visibility and color performance. Lightning-fast pixel response for full-motion digital video playback. Support for 16.7 million saturated colors, for use in all graphics-intensive applications. Simple setup and operation Single cable with elegant breakout for connection to DVI, USB and FireWire ports Built-in two-port USB 2.0 hub for easy connection of desktop peripheral devices. Two FireWire 400 ports to support iSight and other desktop peripherals Sleek, elegant design Huge virtual workspace, very small footprint. Narrow Bezel design to minimize visual impact of using dual displays Unique hinge design for effortless adjustment Support for VESA mounting solutions (Apple Cinema Display VESA Mount Adapter sold separately) Technical specifications Screen size (diagonal viewable image size) Apple Cinema HD Display: 30 inches (29.7-inch viewable) Screen type Thin film transistor (TFT) active-matrix liquid crystal display (AMLCD) Resolutions 2560 x 1600 pixels (optimum resolution) 2048 x 1280 1920 x 1200 1280 x 800 1024 x 640 Display colors (maximum) 16.7 million Viewing angle (typical) 170° horizontal; 170° vertical Brightness (typical) 30-inch Cinema HD Display: 400 cd/m2 Contrast ratio (typical) 700:1 Response time (typical) 16 ms Pixel pitch 30-inch Cinema HD Display: 0.250 mm Screen treatment Antiglare hardcoat User controls (hardware and software) Display Power, System sleep, wake Brightness Monitor tilt Connectors and cables Cable DVI (Digital Visual Interface) FireWire 400 USB 2.0 DC power (24 V) Connectors Two-port, self-powered USB 2.0 hub Two FireWire 400 ports Kensington security port VESA mount adapter Requires optional Cinema Display VESA Mount Adapter (M9649G/A) Compatible with VESA FDMI (MIS-D, 100, C) compliant mounting solutions Electrical requirements Input voltage: 100-240 VAC 50-60Hz Maximum power when operating: 150W Energy saver mode: 3W or less Environmental requirements Operating temperature: 50° to 95° F (10° to 35° C) Storage temperature: -40° to 116° F (-40° to 47° C) Operating humidity: 20% to 80% noncondensing Maximum operating altitude: 10,000 feet Agency approvals FCC Part 15 Class B EN55022 Class B EN55024 VCCI Class B AS/NZS 3548 Class B CNS 13438 Class B ICES-003 Class B ISO 13406 part 2 MPR II IEC 60950 UL 60950 CSA 60950 EN60950 ENERGY STAR TCO &apos;03 Size and weight 30-inch Apple Cinema HD Display Height: 21.3 inches (54.3 cm) Width: 27.2 inches (68.8 cm) Depth: 8.46 inches (21.5 cm) Weight: 27.5 pounds (12.5 kg) System Requirements Mac Pro, all graphic options MacBook Pro Power Mac G5 (PCI-X) with ATI Radeon 9650 or better or NVIDIA GeForce 6800 GT DDL or better Power Mac G5 (PCI Express), all graphics options PowerBook G4 with dual-link DVI support Windows PC and graphics card that supports DVI ports with dual-link digital bandwidth and VESA DDC standard for plug-and-play setup Select Red Select Blue Select Green Select Yellow Checkbox, (??) Checkbox 1 ?? Checkbox, (??) Checkbox 2 ?? Checkbox, (??) Checkbox 3 ?? Checkbox, (??) Checkbox 4 ?? Processor: Clockspeed 100mhz
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/canon_eos_5d_2-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/canon_logo-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/hp_1-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/compaq_presario-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/canon_eos_5d_1-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/data/demo/apple_cinema_30-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>42----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:color>Checkbox 3</g:color>
+<g:item_group_id>42</g:item_group_id>
+<g:sale_price>1.62 EUR</g:sale_price>
+<g:custom_label_0>Apple Cinema 30&quot;</g:custom_label_0>
+<g:custom_label_1>asfsdfsdsdfsdfsdf</g:custom_label_1>
+<g:custom_label_2>42</g:custom_label_2>
+<g:custom_label_3>Product 15</g:custom_label_3>
+<g:custom_label_4>?????? ?????</g:custom_label_4>
+</entry>
+<entry>
+<g:title>Apple Cinema 30&quot; Product 15 Checkbox 4</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=42&product_option_value_id=11&sid=1
+</g:link>
+<g:price>2.50 EUR</g:price>
+<g:id>42-11</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Desktops</g:product_type>
+<g:description>
+The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolution. Designed specifically for the creative professional, this display provides more space for easier access to all the tools and palettes needed to edit, format and composite your work. Combine this display with a Mac Pro, MacBook Pro, or PowerMac G5 and there&apos;s no limit to what you can achieve. The Cinema HD features an active-matrix liquid crystal display that produces flicker-free images that deliver twice the brightness, twice the sharpness and twice the contrast ratio of a typical CRT display. Unlike other flat panels, it&apos;s designed with a pure digital interface to deliver distortion-free images that never need adjusting. With over 4 million digital pixels, the display is uniquely suited for scientific and technical applications such as visualizing molecular structures or analyzing geological data. Offering accurate, brilliant color performance, the Cinema HD delivers up to 16.7 million colors across a wide gamut allowing you to see subtle nuances between colors from soft pastels to rich jewel tones. A wide viewing angle ensures uniform color from edge to edge. Apple&apos;s ColorSync technology allows you to create custom profiles to maintain consistent color onscreen and in print. The result: You can confidently use this display in all your color-critical applications. Housed in a new aluminum design, the display has a very thin bezel that enhances visual accuracy. Each display features two FireWire 400 ports and two USB 2.0 ports, making attachment of desktop peripherals, such as iSight, iPod, digital and still cameras, hard drives, printers and scanners, even more accessible and convenient. Taking advantage of the much thinner and lighter footprint of an LCD, the new displays support the VESA (Video Electronics Standards Association) mounting interface standard. Customers with the optional Cinema Display VESA Mount Adapter kit gain the flexibility to mount their display in locations most appropriate for their work environment. The Cinema HD features a single cable design with elegant breakout for the USB 2.0, FireWire 400 and a pure digital connection using the industry standard Digital Video Interface (DVI) interface. The DVI connection allows for a direct pure-digital connection. Features: Unrivaled display performance 30-inch (viewable) active-matrix liquid crystal display provides breathtaking image quality and vivid, richly saturated color. Support for 2560-by-1600 pixel resolution for display of high definition still and video imagery. Wide-format design for simultaneous display of two full pages of text and graphics. Industry standard DVI connector for direct attachment to Mac- and Windows-based desktops and notebooks Incredibly wide (170 degree) horizontal and vertical viewing angle for maximum visibility and color performance. Lightning-fast pixel response for full-motion digital video playback. Support for 16.7 million saturated colors, for use in all graphics-intensive applications. Simple setup and operation Single cable with elegant breakout for connection to DVI, USB and FireWire ports Built-in two-port USB 2.0 hub for easy connection of desktop peripheral devices. Two FireWire 400 ports to support iSight and other desktop peripherals Sleek, elegant design Huge virtual workspace, very small footprint. Narrow Bezel design to minimize visual impact of using dual displays Unique hinge design for effortless adjustment Support for VESA mounting solutions (Apple Cinema Display VESA Mount Adapter sold separately) Technical specifications Screen size (diagonal viewable image size) Apple Cinema HD Display: 30 inches (29.7-inch viewable) Screen type Thin film transistor (TFT) active-matrix liquid crystal display (AMLCD) Resolutions 2560 x 1600 pixels (optimum resolution) 2048 x 1280 1920 x 1200 1280 x 800 1024 x 640 Display colors (maximum) 16.7 million Viewing angle (typical) 170° horizontal; 170° vertical Brightness (typical) 30-inch Cinema HD Display: 400 cd/m2 Contrast ratio (typical) 700:1 Response time (typical) 16 ms Pixel pitch 30-inch Cinema HD Display: 0.250 mm Screen treatment Antiglare hardcoat User controls (hardware and software) Display Power, System sleep, wake Brightness Monitor tilt Connectors and cables Cable DVI (Digital Visual Interface) FireWire 400 USB 2.0 DC power (24 V) Connectors Two-port, self-powered USB 2.0 hub Two FireWire 400 ports Kensington security port VESA mount adapter Requires optional Cinema Display VESA Mount Adapter (M9649G/A) Compatible with VESA FDMI (MIS-D, 100, C) compliant mounting solutions Electrical requirements Input voltage: 100-240 VAC 50-60Hz Maximum power when operating: 150W Energy saver mode: 3W or less Environmental requirements Operating temperature: 50° to 95° F (10° to 35° C) Storage temperature: -40° to 116° F (-40° to 47° C) Operating humidity: 20% to 80% noncondensing Maximum operating altitude: 10,000 feet Agency approvals FCC Part 15 Class B EN55022 Class B EN55024 VCCI Class B AS/NZS 3548 Class B CNS 13438 Class B ICES-003 Class B ISO 13406 part 2 MPR II IEC 60950 UL 60950 CSA 60950 EN60950 ENERGY STAR TCO &apos;03 Size and weight 30-inch Apple Cinema HD Display Height: 21.3 inches (54.3 cm) Width: 27.2 inches (68.8 cm) Depth: 8.46 inches (21.5 cm) Weight: 27.5 pounds (12.5 kg) System Requirements Mac Pro, all graphic options MacBook Pro Power Mac G5 (PCI-X) with ATI Radeon 9650 or better or NVIDIA GeForce 6800 GT DDL or better Power Mac G5 (PCI Express), all graphics options PowerBook G4 with dual-link DVI support Windows PC and graphics card that supports DVI ports with dual-link digital bandwidth and VESA DDC standard for plug-and-play setup Select Red Select Blue Select Green Select Yellow Checkbox, (??) Checkbox 1 ?? Checkbox, (??) Checkbox 2 ?? Checkbox, (??) Checkbox 3 ?? Checkbox, (??) Checkbox 4 ?? Processor: Clockspeed 100mhz
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/canon_eos_5d_2-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/canon_logo-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/hp_1-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/compaq_presario-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/canon_eos_5d_1-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/data/demo/apple_cinema_30-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>42----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:color>Checkbox 4</g:color>
+<g:item_group_id>42</g:item_group_id>
+<g:sale_price>1.62 EUR</g:sale_price>
+<g:custom_label_0>Apple Cinema 30&quot;</g:custom_label_0>
+<g:custom_label_1>asfsdfsdsdfsdfsdf</g:custom_label_1>
+<g:custom_label_2>42</g:custom_label_2>
+<g:custom_label_3>Product 15</g:custom_label_3>
+<g:custom_label_4>?????? ?????</g:custom_label_4>
+</entry>
+<entry>
+<g:title>MacBook Product 16</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=43
+</g:link>
+<g:price>8.85 EUR</g:price>
+<g:id>43</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Desktops</g:product_type>
+<g:description>
+Intel Core 2 Duo processor Powered by an Intel Core 2 Duo processor at speeds up to 2.16GHz, the new MacBook is the fastest ever. 1GB memory, larger hard drives The new MacBook now comes with 1GB of memory standard and larger hard drives for the entire line perfect for running more of your favorite applications and storing growing media collections. Sleek, 1.08-inch-thin design MacBook makes it easy to hit the road thanks to its tough polycarbonate case, built-in wireless technologies, and innovative MagSafe Power Adapter that releases automatically if someone accidentally trips on the cord. Built-in iSight camera Right out of the box, you can have a video chat with friends or family,2 record a video at your desk, or take fun pictures with Photo Booth ?????? ????????? 2: test 1 8gb Processor: No. of Cores 1
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/macbook_5-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/macbook_4-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/macbook_2-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/macbook_3-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/data/demo/macbook_1-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>43----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:item_group_id>43</g:item_group_id>
+<g:custom_label_0>MacBook</g:custom_label_0>
+<g:custom_label_2>43</g:custom_label_2>
+<g:custom_label_3>Product 16</g:custom_label_3>
+<g:custom_label_4>?????? ?????</g:custom_label_4>
+</entry>
+<entry>
+<g:title>MacBook Air Product 17</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=44
+</g:link>
+<g:price>17.67 EUR</g:price>
+<g:id>44</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Desktops</g:product_type>
+<g:description>
+MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don&rsquo;t lose inches and pounds overnight. It&rsquo;s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/macbook_air_4-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/macbook_air_2-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/macbook_air_3-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/data/demo/macbook_air_1-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>44----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:item_group_id>44</g:item_group_id>
+<g:custom_label_0>MacBook Air</g:custom_label_0>
+<g:custom_label_2>44</g:custom_label_2>
+<g:custom_label_3>Product 17</g:custom_label_3>
+<g:custom_label_4>?????? ?????</g:custom_label_4>
+</entry>
+<entry>
+<g:title>Sony VAIO Product 19</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=46
+</g:link>
+<g:price>17.67 EUR</g:price>
+<g:id>46</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Desktops</g:product_type>
+<g:description>
+Unprecedented power. The next generation of processing technology has arrived. Built into the newest VAIO notebooks lies Intel&#39;s latest, most powerful innovation yet: Intel&reg; Centrino&reg; 2 processor technology. Boasting incredible speed, expanded wireless connectivity, enhanced multimedia support and greater energy efficiency, all the high-performance essentials are seamlessly combined into a single chip.
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/sony_vaio_5-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/sony_vaio_4-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/sony_vaio_2-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/sony_vaio_3-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/data/demo/sony_vaio_1-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>46----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:item_group_id>46</g:item_group_id>
+<g:custom_label_0>Sony VAIO</g:custom_label_0>
+<g:custom_label_2>46</g:custom_label_2>
+<g:custom_label_3>Product 19</g:custom_label_3>
+<g:custom_label_4>?????? ?????</g:custom_label_4>
+</entry>
+<entry>
+<g:title>HP LP3065 Product 21</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=47
+</g:link>
+<g:price>1.79 EUR</g:price>
+<g:id>47</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Desktops</g:product_type>
+<g:description>
+Stop your co-workers in their tracks with the stunning new 30-inch diagonal HP LP3065 Flat Panel Monitor. This flagship monitor features best-in-class performance and presentation features on a huge wide-aspect screen while letting you work as comfortably as possible - you might even forget you&#39;re at the office ?????? ????????? 2: test 1 16GB Processor: No. of Cores 4
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/hp_2-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/hp_3-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/data/demo/hp_1-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>47----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:item_group_id>47</g:item_group_id>
+<g:custom_label_0>HP LP3065</g:custom_label_0>
+<g:custom_label_2>47</g:custom_label_2>
+<g:custom_label_3>Product 21</g:custom_label_3>
+<g:custom_label_4>?????? ?????</g:custom_label_4>
+</entry>
+<entry>
+<g:title>iPod Classic product 20</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=48
+</g:link>
+<g:price>1.79 EUR</g:price>
+<g:id>48</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Desktops</g:product_type>
+<g:description>
+More room to move. With 80GB or 160GB of storage and up to 40 hours of battery life, the new iPod classic lets you enjoy up to 40,000 songs or up to 200 hours of video or any combination wherever you go. Cover Flow. Browse through your music collection by flipping through album art. Select an album to turn it over and see the track list. Enhanced interface. Experience a whole new way to browse and view your music and video. Sleeker design. Beautiful, durable, and sleeker than ever, iPod classic now features an anodized aluminum and polished stainless steel enclosure with rounded edges.
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/ipod_classic_2-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/ipod_classic_3-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/ipod_classic_4-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/data/demo/ipod_classic_1-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>48----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:item_group_id>48</g:item_group_id>
+<g:custom_label_0>iPod Classic</g:custom_label_0>
+<g:custom_label_1>iPod Classic</g:custom_label_1>
+<g:custom_label_2>48</g:custom_label_2>
+<g:custom_label_3>product 20</g:custom_label_3>
+<g:custom_label_4>?????? ?????</g:custom_label_4>
+</entry>
+<entry>
+<g:title>Samsung Galaxy Tab 10.1 SAM1</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=49
+</g:link>
+<g:price>3.56 EUR</g:price>
+<g:id>49</g:id>
+<g:availability>out of stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>Tablets</g:product_type>
+<g:description>
+Samsung Galaxy Tab 10.1, is the world&rsquo;s thinnest tablet, measuring 8.6 mm thickness, running with Android 3.0 Honeycomb OS on a 1GHz dual-core Tegra 2 processor, similar to its younger brother Samsung Galaxy Tab 8.9. Samsung Galaxy Tab 10.1 gives pure Android 3.0 experience, adding its new TouchWiz UX or TouchWiz 4.0 &ndash; includes a live panel, which lets you to customize with different content, such as your pictures, bookmarks, and social feeds, sporting a 10.1 inches WXGA capacitive touch screen with 1280 x 800 pixels of resolution, equipped with 3 megapixel rear camera with LED flash and a 2 megapixel front camera, HSPA+ connectivity up to 21Mbps, 720p HD video recording capability, 1080p HD playback, DLNA support, Bluetooth 2.1, USB 2.0, gyroscope, Wi-Fi 802.11 a/b/g/n, micro-SD slot, 3.5mm headphone jack, and SIM slot, including the Samsung Stick &ndash; a Bluetooth microphone that can be carried in a pocket like a pen and sound dock with powered subwoofer. Samsung Galaxy Tab 10.1 will come in 16GB / 32GB / 64GB verities and pre-loaded with Social Hub, Reader&rsquo;s Hub, Music Hub and Samsung Mini Apps Tray &ndash; which gives you access to more commonly used apps to help ease multitasking and it is capable of Adobe Flash Player 10.2, powered by 6860mAh battery that gives you 10hours of video-playback time.&nbsp;&auml;&ouml;
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/samsung_tab_7-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/samsung_tab_6-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/samsung_tab_5-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/samsung_tab_4-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/data/demo/samsung_tab_3-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/data/demo/samsung_tab_1-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>49----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:item_group_id>49</g:item_group_id>
+<g:custom_label_0>Samsung Galaxy Tab 10.1</g:custom_label_0>
+<g:custom_label_2>49</g:custom_label_2>
+<g:custom_label_3>SAM1</g:custom_label_3>
+</entry>
+<entry>
+<g:title>
+I LOVE SLEEP ???????? ??????????? ????? &quot;2 - ???????? ????&quot; ? ??????
+</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=53
+</g:link>
+<g:price>70.56 EUR</g:price>
+<g:id>53</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>?????????? ?????</g:product_type>
+<g:description>
+????????? ???????, ???????, ILSPOP2E-T12 ????????? ???????, ??????????, ILSPOP2E-T18 ????????? ?????, ???????, ILSPOP2E-T17 ????????? ?????????, ??????????, ILSPOP2E-T16 ????????? ??????????, ???????, ILSPOP2E-T15 ????????? ???????, ?????????, ILSPOP2E-T14 ????????? ???????, ?????, ILSPOP2E-T13 ????????? ??????????, ???????, ILSPOP2E-T19
+</g:description>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/image/catalog/ivanovo/ILSPOP2E-T19_T19/d072f7d8ed583534063156ba5f8a420c-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>53----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:item_group_id>53</g:item_group_id>
+<g:custom_label_0>
+I LOVE SLEEP ???????? ??????????? ????? &quot;2 - ???????? ????&quot; ? ??????
+</g:custom_label_0>
+<g:custom_label_2>53</g:custom_label_2>
+<g:custom_label_4>I LOVE SLEEP</g:custom_label_4>
+</entry>
+<entry>
+<g:title>
+I LOVE SLEEP ???????? ??????????? ????? &quot;????&quot; ? ??????
+</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=54
+</g:link>
+<g:price>76.44 EUR</g:price>
+<g:id>54</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>?????????? ?????</g:product_type>
+<g:description>
+????????? ?????-??????????, ?????????, ILSPOPE-T20 ????????? ?????????, ?????-??????????, ILSPOPE-T25 ????????? ?????-??????????, ?????????, ILSPOPE-T24 ????????? ?????-??????????, ???????, ILSPOPE-T23 ????????? ?????, ??????????, ILSPOPE-T22 ????????? ???????, ??????????, ILSPOPE-T21
+</g:description>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/image/catalog/ivanovo/ILSPOPE-T25_T25/97a71c343433a636e417cdc509a5d40a-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>54----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:item_group_id>54</g:item_group_id>
+<g:custom_label_0>
+I LOVE SLEEP ???????? ??????????? ????? &quot;????&quot; ? ??????
+</g:custom_label_0>
+<g:custom_label_2>54</g:custom_label_2>
+<g:custom_label_4>I LOVE SLEEP</g:custom_label_4>
+</entry>
+<entry>
+<g:title>???????? ? ???????????? F-ocext</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=55
+</g:link>
+<g:price>6.62 EUR</g:price>
+<g:id>55</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>??????</g:product_type>
+<g:description>
+???? ??????? ???? ?????? ???? ?????? ???? ?????? ???? ??????? ???? ??????? ???? ??????? ???? ??????? ???? ??????? ???? ??????? ???? ?????? ?????? ???????? (RU) 48 RU ?????? ???????? (RU) 52 RU ?????? ???????? (RU) 54 RU ?????? ???????? (RU) 46 RU ?????? ???????? (RU) 52 RU ?????? ???????? (RU) 50 RU ?????? ???????? (RU) 50 RU ?????? ???????? (RU) 52 RU ?????? ???????? (RU) 54 RU ?????? ???????? (RU) 54 RU ?????? ???????? (RU) 48 RU
+</g:description>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/image/catalog/demo/5c183a4d25e4d68856ba9334dd1fd27e-500x500.jpg
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>55----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:item_group_id>55</g:item_group_id>
+<g:custom_label_0>???????? ? ????????????</g:custom_label_0>
+<g:custom_label_1>???????? ? ????????????</g:custom_label_1>
+<g:custom_label_2>55</g:custom_label_2>
+<g:custom_label_3>F-ocext</g:custom_label_3>
+<g:custom_label_4>Ocext</g:custom_label_4>
+</entry>
+<entry>
+<g:title>Ocext1</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=212
+</g:link>
+<g:price>1.81 EUR</g:price>
+<g:id>212</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>?????</g:product_type>
+<g:description>
+???????? ?????? L ?????????: ???????? ????? ??????????????: ?????? ???????????? ?????
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/new/image/image/cache/catalog/demo/7afc7c48c5c1dfd33c77f4ca26c01084-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/new/image/image/cache/catalog/demo/1e30ea0e2456b21c697fee2e5e376b40-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/new/image/image/catalog/99214f57ca6fdc36811d0d73c96bdd72-500x500.png
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>212----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:item_group_id>212</g:item_group_id>
+<g:custom_label_0>Ocext1</g:custom_label_0>
+<g:custom_label_1>?????? Ocext1</g:custom_label_1>
+<g:custom_label_2>212</g:custom_label_2>
+<g:custom_label_4>Apple</g:custom_label_4>
+</entry>
+<entry>
+<g:title>Motorola</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=214
+</g:link>
+<g:price>18.15 EUR</g:price>
+<g:id>214</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>?????</g:product_type>
+<g:description>
+?????? ????? ?????? XLS ?????????: ???????? ????? ??????????????: ?????? ???????????? ?????
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/new/image/image/cache/catalog/demo/1e30ea0e2456b21c697fee2e5e376b40-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/new/image/image/cache/catalog/demo/7afc7c48c5c1dfd33c77f4ca26c01084-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/new/image/image/catalog/99214f57ca6fdc36811d0d73c96bdd72-500x500.png
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>214----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:item_group_id>214</g:item_group_id>
+<g:custom_label_0>Motorola</g:custom_label_0>
+<g:custom_label_1>?????? Motorola</g:custom_label_1>
+<g:custom_label_2>214</g:custom_label_2>
+<g:custom_label_4>Motorola</g:custom_label_4>
+</entry>
+<entry>
+<g:title>Lucient</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=215
+</g:link>
+<g:price>181.53 EUR</g:price>
+<g:id>215</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>?????</g:product_type>
+<g:description>
+?????? ?????1 ?????? S ?????????: ???????? ????? ??????????????: ?????? ???????????? ?????
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/new/image/image/cache/catalog/demo/1e30ea0e2456b21c697fee2e5e376b40-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/new/image/image/cache/catalog/demo/7afc7c48c5c1dfd33c77f4ca26c01084-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/new/image/image/catalog/99214f57ca6fdc36811d0d73c96bdd72-500x500.png
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>215----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:item_group_id>215</g:item_group_id>
+<g:custom_label_0>Lucient</g:custom_label_0>
+<g:custom_label_1>?????? Lucient</g:custom_label_1>
+<g:custom_label_2>215</g:custom_label_2>
+<g:custom_label_4>Lucient</g:custom_label_4>
+</entry>
+<entry>
+<g:title>Huawey</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=216
+</g:link>
+<g:price>17.69 EUR</g:price>
+<g:id>216</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>?????</g:product_type>
+<g:description>
+???????? ?????? XL ?????????: ???????? ????? ??????????????: ?????? ???????????? ?????
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/new/image/image/cache/catalog/demo/1e30ea0e2456b21c697fee2e5e376b40-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/new/image/image/cache/catalog/demo/7afc7c48c5c1dfd33c77f4ca26c01084-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/new/image/image/catalog/99214f57ca6fdc36811d0d73c96bdd72-500x500.png
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>216----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:item_group_id>216</g:item_group_id>
+<g:custom_label_0>Huawey</g:custom_label_0>
+<g:custom_label_1>?????? Huawey</g:custom_label_1>
+<g:custom_label_2>216</g:custom_label_2>
+<g:custom_label_4>Huawey2</g:custom_label_4>
+</entry>
+<entry>
+<g:title>Huawey</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=217
+</g:link>
+<g:price>18157.76 EUR</g:price>
+<g:id>217</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>??????</g:product_type>
+<g:description>
+???????? ?????? XL ?????????: ???????? ????? ??????????????: ?????? ???????????? ?????
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/new/image/image/cache/catalog/demo/1e30ea0e2456b21c697fee2e5e376b40-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/new/image/image/cache/catalog/demo/7afc7c48c5c1dfd33c77f4ca26c01084-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/new/image/image/catalog/99214f57ca6fdc36811d0d73c96bdd72-500x500.png
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>217----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:item_group_id>217</g:item_group_id>
+<g:custom_label_0>Huawey</g:custom_label_0>
+<g:custom_label_1>?????? Huawey</g:custom_label_1>
+<g:custom_label_2>217</g:custom_label_2>
+<g:custom_label_4>Huawey2</g:custom_label_4>
+</entry>
+<entry>
+<g:title>Ocext2</g:title>
+<g:link>
+http://oc2102.ocext.com/index.php?route=product/product&product_id=219
+</g:link>
+<g:price>181.47 EUR</g:price>
+<g:id>219</g:id>
+<g:availability>in stock</g:availability>
+<g:condition>new</g:condition>
+<g:product_type>??????</g:product_type>
+<g:description>
+???????? ?????? XL ?????????: ???????? ????? ??????????????: ?????? ???????????? ?????
+</g:description>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/new/image/image/cache/catalog/demo/7afc7c48c5c1dfd33c77f4ca26c01084-500x500.jpg
+</g:additional_image_link>
+<g:additional_image_link>
+http://oc2102.ocext.com/image/cache/new/image/image/cache/catalog/demo/1e30ea0e2456b21c697fee2e5e376b40-500x500.jpg
+</g:additional_image_link>
+<g:image_link>
+http://oc2102.ocext.com/image/cache/new/image/image/catalog/99214f57ca6fdc36811d0d73c96bdd72-500x500.png
+</g:image_link>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>RU</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Post</g:service>
+<g:country>UA</g:country>
+</g:shipping>
+<g:shipping>
+<g:price>350.00 EUR</g:price>
+<g:service>Avia</g:service>
+<g:country>CA</g:country>
+</g:shipping>
+<g:adult>yes</g:adult>
+<g:gtin>219----product_ups</g:gtin>
+<g:age_group>kids</g:age_group>
+<g:item_group_id>219</g:item_group_id>
+<g:custom_label_0>Ocext2</g:custom_label_0>
+<g:custom_label_1>?????? Ocext2</g:custom_label_1>
+<g:custom_label_2>219</g:custom_label_2>
+<g:custom_label_4>Ocext</g:custom_label_4>
+</entry>
+</feed>

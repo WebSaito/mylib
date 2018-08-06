@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  
+<!--
+ █████╗ ███████╗ ██████╗██╗██╗
+██╔══██╗██╔════╝██╔════╝██║██║
+███████║███████╗██║     ██║██║
+██╔══██║╚════██║██║     ██║██║
+██║  ██║███████║╚██████╗██║██║
+╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝╚═╝
+
+Para gerar o título acesse o site:
+http://patorjk.com/software/taag/#p=display&v=1&f=Texto
+
+Caso o link não funcione, acesse o site e utilize a font: ANSI SHADOW
+-->
+
+<!--
+██╗     ██╗███╗   ██╗██╗  ██╗███████╗
+██║     ██║████╗  ██║██║ ██╔╝██╔════╝
+██║     ██║██╔██╗ ██║█████╔╝ ███████╗
+██║     ██║██║╚██╗██║██╔═██╗ ╚════██║
+███████╗██║██║ ╚████║██║  ██╗███████║
+╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
+██╗██████╗ ██╗ ██████╗ ███╗   ███╗ █████╗ 
+██║██╔══██╗██║██╔═══██╗████╗ ████║██╔══██╗
+██║██║  ██║██║██║   ██║██╔████╔██║███████║
+██║██║  ██║██║██║   ██║██║╚██╔╝██║██╔══██║
+██║██████╔╝██║╚██████╔╝██║ ╚═╝ ██║██║  ██║
+╚═╝╚═════╝ ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝
+LINKS QUANDO CLICAR NO BOTÃO TROCA DE IDIOMA
+-->
+  <data name="preadymake_pt-br" xml:space="preserve"><value>/readymake/</value></data>
+  <data name="preadymake_fr-fr" xml:space="preserve"><value>/readymake/</value></data>
+  <data name="preadymake_pt-br" xml:space="preserve"><value>/readymake/</value></data>
+  <data name="preadymake_fr-fr" xml:space="preserve"><value>/readymake/</value></data>
+  <data name="parquitetura_pt-br" xml:space="preserve"><value>/arquitetura/</value></data>
+  <data name="parquitetura_fr-fr" xml:space="preserve"><value>/architecture/</value></data>
+  <data name="parchiteture_pt-br" xml:space="preserve"><value>/arquitetura/</value></data>
+  <data name="parchiteture_fr-fr" xml:space="preserve"><value>/architecture/</value></data>
+  <data name="purbanismo_pt-br" xml:space="preserve"><value>/urbanismo/</value></data>
+  <data name="purbanismo_fr-fr" xml:space="preserve"><value>/urbanisme/</value></data>
+  <data name="purbanisme_pt-br" xml:space="preserve"><value>/urbanismo/</value></data>
+  <data name="purbanisme_fr-fr" xml:space="preserve"><value>/urbanisme/</value></data>
+  <data name="ppesquisa_pt-br" xml:space="preserve"><value>/pesquisa/</value></data>
+  <data name="ppesquisa_fr-fr" xml:space="preserve"><value>/recherche/</value></data>
+  <data name="precherche_pt-br" xml:space="preserve"><value>/pesquisa/</value></data>
+  <data name="precherche_fr-fr" xml:space="preserve"><value>/recherche/</value></data>
+  <data name="ppublicacoes_pt-br" xml:space="preserve"><value>/publicacoes/</value></data>
+  <data name="ppublicacoes_fr-fr" xml:space="preserve"><value>/publication/</value></data>
+  <data name="ppublication_pt-br" xml:space="preserve"><value>/publicacoes/</value></data>
+  <data name="ppublication_fr-fr" xml:space="preserve"><value>/publication/</value></data>
+  <data name="pcontato_pt-br" xml:space="preserve"><value>/contato/</value></data>
+  <data name="pcontato_fr-fr" xml:space="preserve"><value>/contact/</value></data>
+  <data name="pcontact_pt-br" xml:space="preserve"><value>/contato/</value></data>
+  <data name="pcontact_fr-fr" xml:space="preserve"><value>/contact/</value></data>
+  
+
+<!--
+ ██████╗ ██╗      ██████╗ ██████╗  █████╗ ██╗     
+██╔════╝ ██║     ██╔═══██╗██╔══██╗██╔══██╗██║     
+██║  ███╗██║     ██║   ██║██████╔╝███████║██║     
+██║   ██║██║     ██║   ██║██╔══██╗██╔══██║██║     
+╚██████╔╝███████╗╚██████╔╝██████╔╝██║  ██║███████╗
+ ╚═════╝ ╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
+Textos globais, que são utilizados em diversas páginas
+-->
+
+
+<!--
+███╗   ███╗███████╗███╗   ██╗██╗   ██╗    ████████╗ ██████╗ ██████╗  ██████╗ 
+████╗ ████║██╔════╝████╗  ██║██║   ██║    ╚══██╔══╝██╔═══██╗██╔══██╗██╔═══██╗
+██╔████╔██║█████╗  ██╔██╗ ██║██║   ██║       ██║   ██║   ██║██████╔╝██║   ██║
+██║╚██╔╝██║██╔══╝  ██║╚██╗██║██║   ██║       ██║   ██║   ██║██╔═══╝ ██║   ██║
+██║ ╚═╝ ██║███████╗██║ ╚████║╚██████╔╝       ██║   ╚██████╔╝██║     ╚██████╔╝
+╚═╝     ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝        ╚═╝    ╚═════╝ ╚═╝      ╚═════╝ 
+-->
+                                                                             
+  <data name="menuArquitetura" xml:space="preserve"><value>Architecture</value></data>
+  <data name="menuLinkArquitetura" xml:space="preserve"><value>/architecture/</value></data>
+  <data name="menuUrbanismo" xml:space="preserve"><value>Urbanisme</value></data>
+  <data name="menuLinkUrbanismo" xml:space="preserve"><value>/urbanisme/</value></data>
+  <data name="menuPesquisa" xml:space="preserve"><value>Recherche</value></data>
+  <data name="menuLinkPesquisa" xml:space="preserve"><value>/recherche/</value></data>
+  <data name="menuSobre" xml:space="preserve"><value>Readymake</value></data>
+  <data name="menuLinkSobre" xml:space="preserve"><value>/readymake/</value></data>
+  <data name="menuPublicacoes" xml:space="preserve"><value>Publication</value></data>
+  <data name="menuLinkPublicacoes" xml:space="preserve"><value>/publication/</value></data>
+  <data name="menuContato" xml:space="preserve"><value>Contact</value></data>
+  <data name="menuLinkContato" xml:space="preserve"><value>/contact/</value></data>
+
+<!--
+████████╗██╗████████╗██╗   ██╗██╗      ██████╗ ███████╗
+╚══██╔══╝██║╚══██╔══╝██║   ██║██║     ██╔═══██╗██╔════╝
+   ██║   ██║   ██║   ██║   ██║██║     ██║   ██║███████╗
+   ██║   ██║   ██║   ██║   ██║██║     ██║   ██║╚════██║
+   ██║   ██║   ██║   ╚██████╔╝███████╗╚██████╔╝███████║
+   ╚═╝   ╚═╝   ╚═╝    ╚═════╝ ╚══════╝ ╚═════╝ ╚══════╝
+-->
+<data name="browserTitle_home" xml:space="preserve"><value>Readymake</value></data>
+<data name="browserTitle_arquitetura" xml:space="preserve"><value>Architecture | Readymake</value></data>
+<data name="browserTitle_urbanismo" xml:space="preserve"><value>Urbanisme | Readymake</value></data>
+<data name="browserTitle_pesquisa" xml:space="preserve"><value>Recherche | Readymake</value></data>
+<data name="browserTitle_sobre" xml:space="preserve"><value>Readymake</value></data>
+<data name="browserTitle_publicacoes" xml:space="preserve"><value>Readymake | Publication</value></data>
+<data name="browserTitle_contato" xml:space="preserve"><value>Readymake | Contact</value></data>
+
+</root>

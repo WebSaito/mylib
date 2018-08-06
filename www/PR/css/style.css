@@ -1,0 +1,82 @@
+html {
+  position: relative;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+
+.body-login{
+	height:100%;
+	overflow:hidden;
+}
+
+html , view{ height: 100%; }
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #f5f5f5;
+  text-align:center;
+}
+
+
+img.bg {
+  /* Set rules to fill background */
+  min-height: 100%;
+  min-width: 1280px;
+
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
+  
+  z-index:-1 !important;
+}
+
+@media screen and (max-width: 1280px) { /* Specific to this particular image */
+  img.bg {
+    left: 50%;
+    margin-left: -512px;   /* 50% */
+  }
+}
+
+.container-table {
+	bottom:0px;
+	top:0px;
+	display:table;
+	height:100%;
+}
+.vertical-center-row {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.quadro-login{
+	background:#FFFFFF;
+	padding:30px;
+	/*
+	-webkit-box-shadow: 3px 3px 9px 0px rgba(138,134,138,1);
+	-moz-box-shadow: 3px 3px 9px 0px rgba(138,134,138,1);
+	box-shadow: 3px 3px 9px 0px rgba(138,134,138,1);
+	*/
+	-webkit-box-shadow: 2px 2px 5px 0px rgba(166,173,189,1);
+	-moz-box-shadow: 2px 2px 5px 0px rgba(166,173,189,1);
+	box-shadow: 2px 2px 5px 0px rgba(166,173,189,1);
+	
+}
+
+.input-so-bottom {
+    border: 0 !important;
+	border-radius:0px !important; 
+	border-bottom:solid 1px #666666 !important;
+    box-shadow: none !important; /* You may want to include this as bootstrap applies these styles too */
+}
+

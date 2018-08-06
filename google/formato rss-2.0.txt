@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<rss version="2.0" 
+xmlns:g="http://base.google.com/ns/1.0">
+<channel>
+<title>O nome do feed de dados</title> <link>http://www.example.com</link> <description>Uma descrição do conteúdo</description> <item> <title>Suéter de lã vermelho</title> <link> http://www.example.com/item1-info-page.html</link> <description>Confortável e macio, este suéter manterá você aquecido nas noites frias do inverno.</description>
+<g:image_link>http://www.example.com/image1.jpg</g:image_link> <g:price>25</g:price> <g:condition>novo</g:condition> <g:id>1a</g:id>
+</item> </channel> </rss>

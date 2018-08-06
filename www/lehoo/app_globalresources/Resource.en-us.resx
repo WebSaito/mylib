@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  
+<!--
+ █████╗ ███████╗ ██████╗██╗██╗
+██╔══██╗██╔════╝██╔════╝██║██║
+███████║███████╗██║     ██║██║
+██╔══██║╚════██║██║     ██║██║
+██║  ██║███████║╚██████╗██║██║
+╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝╚═╝
+
+Para gerar o título acesse o site:
+http://patorjk.com/software/taag/#p=display&v=1&f=Texto
+
+Caso o link não funcione, acesse o site e utilize a font: ANSI SHADOW
+-->
+
+<!--
+██╗     ██╗███╗   ██╗██╗  ██╗███████╗
+██║     ██║████╗  ██║██║ ██╔╝██╔════╝
+██║     ██║██╔██╗ ██║█████╔╝ ███████╗
+██║     ██║██║╚██╗██║██╔═██╗ ╚════██║
+███████╗██║██║ ╚████║██║  ██╗███████║
+╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
+██╗██████╗ ██╗ ██████╗ ███╗   ███╗ █████╗ 
+██║██╔══██╗██║██╔═══██╗████╗ ████║██╔══██╗
+██║██║  ██║██║██║   ██║██╔████╔██║███████║
+██║██║  ██║██║██║   ██║██║╚██╔╝██║██╔══██║
+██║██████╔╝██║╚██████╔╝██║ ╚═╝ ██║██║  ██║
+╚═╝╚═════╝ ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝
+LINKS QUANDO CLICAR NO BOTÃO TROCA DE IDIOMA
+-->noticiasDaRede_newsletter_pageTexto
+  <data name="psobre" xml:space="preserve"><value>/sobre/</value></data>
+  <data name="pabout" xml:space="preserve"><value>/about/</value></data>
+  <data name="pcontato" xml:space="preserve"><value>/contato/</value></data>
+  <data name="pcontact" xml:space="preserve"><value>/contact/</value></data>
+  
+
+<!--
+ ██████╗ ██╗      ██████╗ ██████╗  █████╗ ██╗     
+██╔════╝ ██║     ██╔═══██╗██╔══██╗██╔══██╗██║     
+██║  ███╗██║     ██║   ██║██████╔╝███████║██║     
+██║   ██║██║     ██║   ██║██╔══██╗██╔══██║██║     
+╚██████╔╝███████╗╚██████╔╝██████╔╝██║  ██║███████╗
+ ╚═════╝ ╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
+Textos globais, que são utilizados em diversas páginas
+-->
+  
+  <data name="global_leiaMais" xml:space="preserve"><value>leia mais</value></data>
+  <data name="global_saibaMais" xml:space="preserve"><value>saiba mais</value></data>
+  <data name="global_vejaMais" xml:space="preserve"><value>veja mais</value></data>
+  <data name="global_carregarMais" xml:space="preserve"><value>carregar mais</value></data>
+  <data name="global_verEdicao" xml:space="preserve"><value>ver edição</value></data>
+  <data name="global_verNovamente" xml:space="preserve"><value>ver novamente</value></data>
+  <data name="global_carregando" xml:space="preserve"><value>Carregando</value></data>
+  <data name="global_enviar" xml:space="preserve"><value>Enviar</value></data>
+  <data name="global_voltar" xml:space="preserve"><value>voltar</value></data>
+  <data name="global_fecharLightbox" xml:space="preserve"><value>Fechar</value></data>
+  <data name="global_cep" xml:space="preserve"><value>CEP</value></data>
+  <data name="global_cadastrar" xml:space="preserve"><value>Cadastrar</value></data>
+  <data name="global_rua" xml:space="preserve"><value>Rua</value></data>
+
+  <!-- Meses do ano -->
+  <data name="global_mesJaneiro" xml:space="preserve"><value>Janeiro</value></data>
+  <data name="global_mesFevereiro" xml:space="preserve"><value>Fevereiro</value></data>
+  <data name="global_mesMarco" xml:space="preserve"><value>Março</value></data>
+  <data name="global_mesAbril" xml:space="preserve"><value>Abril</value></data>
+  <data name="global_mesMaio" xml:space="preserve"><value>Maio</value></data>
+  <data name="global_mesJunho" xml:space="preserve"><value>Junho</value></data>
+  <data name="global_mesJulho" xml:space="preserve"><value>Julho</value></data>
+  <data name="global_mesAgosto" xml:space="preserve"><value>Agosto</value></data>
+  <data name="global_mesSetembro" xml:space="preserve"><value>Setembro</value></data>
+  <data name="global_mesOutubro" xml:space="preserve"><value>Outubro</value></data>
+  <data name="global_mesNovembro" xml:space="preserve"><value>Novembro</value></data>
+  <data name="global_mesDezembro" xml:space="preserve"><value>Dezembro</value></data>
+
+  <!-- Validações -->
+  <data name="global_validacao_nome" xml:space="preserve"><value>Nome inválido</value></data>
+  <data name="global_validacao_email" xml:space="preserve"><value>E-mail inválido</value></data>
+  <data name="global_validacao_assuntoSelect" xml:space="preserve"><value>Selecione o assunto</value></data>
+  <data name="global_validacao_selectOption" xml:space="preserve"><value>Selecione uma opção</value></data>
+  <data name="global_validacao_mensagemContatoVazio" xml:space="preserve"><value>Informe o motivo de seu contato</value></data>
+  <data name="global_validacao_cep" xml:space="preserve"><value>CEP inválido</value></data>
+  <data name="global_validacao_endereco" xml:space="preserve"><value>Endereço inválido</value></data>
+  <data name="global_validacao_bairro" xml:space="preserve"><value>Bairro inválido</value></data>
+  <data name="global_validacao_cidade" xml:space="preserve"><value>Cidade inválida</value></data>
+
+<!--
+███╗   ███╗███████╗███╗   ██╗██╗   ██╗    ████████╗ ██████╗ ██████╗  ██████╗ 
+████╗ ████║██╔════╝████╗  ██║██║   ██║    ╚══██╔══╝██╔═══██╗██╔══██╗██╔═══██╗
+██╔████╔██║█████╗  ██╔██╗ ██║██║   ██║       ██║   ██║   ██║██████╔╝██║   ██║
+██║╚██╔╝██║██╔══╝  ██║╚██╗██║██║   ██║       ██║   ██║   ██║██╔═══╝ ██║   ██║
+██║ ╚═╝ ██║███████╗██║ ╚████║╚██████╔╝       ██║   ╚██████╔╝██║     ╚██████╔╝
+╚═╝     ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝        ╚═╝    ╚═════╝ ╚═╝      ╚═════╝ 
+-->
+                                                                             
+  <data name="menuArquitetura" xml:space="preserve"><value>Architecture</value></data>
+  <data name="menuLinkArquitetura" xml:space="preserve"><value>/architecture/</value></data>
+  <data name="menuUrbanismo" xml:space="preserve"><value>Urbanism</value></data>
+  <data name="menuLinkUrbanismo" xml:space="preserve"><value>/urbanism/</value></data>
+  <data name="menuPesquisa" xml:space="preserve"><value>Research</value></data>
+  <data name="menuLinkPesquisa" xml:space="preserve"><value>/research/</value></data>
+  <data name="menuSobre" xml:space="preserve"><value>About</value></data>
+  <data name="menuLinkSobre" xml:space="preserve"><value>/about/</value></data>
+  <data name="menuPublicacoes" xml:space="preserve"><value>Publications</value></data>
+  <data name="menuLinkPublicacoes" xml:space="preserve"><value>/publications/</value></data>
+  <data name="menuContato" xml:space="preserve"><value>Contact</value></data>
+  <data name="menuLinkContato" xml:space="preserve"><value>/contact/</value></data>
+  
+
+</root>
